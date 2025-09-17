@@ -1,0 +1,43 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": -4.5,
+        "y": 1.100000023841858,
+        "z": -4.5
+      }
+    }
+  ],
+  "model": [],
+  "solidground": [],
+  "solidbox": [],
+  "ground": [],
+  "box": [],
+  "image": [],
+  "html": [],
+  "video": [],
+  "youtube": [
+    {
+      "p": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "_WM3TVQdUdA?si=Ssufxjn41xuneVYm"
+    }
+  ],
+  "audio": [],
+  "water": [],
+  "text": [],
+  "collider": []
+}

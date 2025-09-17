@@ -1,0 +1,8245 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": 0.5,
+        "y": 303,
+        "z": 53
+      }
+    }
+  ],
+  "model": [
+    {
+      "p": {
+        "x": 6,
+        "y": 72.5,
+        "z": -640
+      },
+      "r": {
+        "x": -179.9999993738877,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.424476,
+        "y": 0.424476,
+        "z": 0.424476
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSuM7ud6MxrejeJJnhiQ7T6dh5H8sTvJwp1nen9B1iN1N",
+      "met": 0.2,
+      "ref": 0.1,
+      "glo": 0.2,
+      "sf": 0.045613688279166266
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": -7,
+        "z": -388
+      },
+      "r": {
+        "x": 180,
+        "y": -29.999999255900853,
+        "z": 180
+      },
+      "s": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 4,
+        "y": -7,
+        "z": -265
+      },
+      "r": {
+        "x": 180,
+        "y": -7.440991484899754e-7,
+        "z": 180
+      },
+      "s": {
+        "x": 0.6,
+        "y": 0.6,
+        "z": 0.6
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 14.5,
+        "y": -7,
+        "z": -272
+      },
+      "r": {
+        "x": 180,
+        "y": 59.99999944940442,
+        "z": 180
+      },
+      "s": {
+        "x": 0.8658894427405671,
+        "y": 0.8658894427405671,
+        "z": 0.8658894427405671
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": -7,
+        "z": -275.5
+      },
+      "r": {
+        "x": 180,
+        "y": -29.999999999999993,
+        "z": 180
+      },
+      "s": {
+        "x": 0.17055278629716455,
+        "y": 0.17055278629716455,
+        "z": 0.17055278629716455
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -1,
+        "y": -7,
+        "z": -273.5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.3411055725943291,
+        "y": 0.3411055725943291,
+        "z": 0.3411055725943291
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 5,
+        "y": -7,
+        "z": -272.5
+      },
+      "r": {
+        "x": 0,
+        "y": -75.00000043637414,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7,
+        "z": -281.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.375216129853762,
+        "y": 0.375216129853762,
+        "z": 0.375216129853762
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -1.5,
+        "y": -7,
+        "z": -288
+      },
+      "r": {
+        "x": 180,
+        "y": 6.974060040723616e-7,
+        "z": 180
+      },
+      "s": {
+        "x": 0.4946030802617772,
+        "y": 0.4946030802617772,
+        "z": 0.4946030802617772
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -1.5,
+        "y": -7,
+        "z": -281
+      },
+      "r": {
+        "x": 180,
+        "y": -60.00000039901128,
+        "z": 180
+      },
+      "s": {
+        "x": 0.187608064926881,
+        "y": 0.187608064926881,
+        "z": 0.187608064926881
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 2,
+        "y": -7,
+        "z": -279.5
+      },
+      "r": {
+        "x": 0,
+        "y": 59.99999958241111,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 13,
+        "y": -7,
+        "z": -283
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.28993973670517975,
+        "y": 0.28993973670517975,
+        "z": 0.28993973670517975
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 12,
+        "y": -7,
+        "z": -304
+      },
+      "r": {
+        "x": 0,
+        "y": -45.00000156599402,
+        "z": 0
+      },
+      "s": {
+        "x": 0.4263819657429114,
+        "y": 0.4263819657429114,
+        "z": 0.4263819657429114
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -4,
+        "y": -7,
+        "z": -302
+      },
+      "r": {
+        "x": 180,
+        "y": 15.000001211451607,
+        "z": 180
+      },
+      "s": {
+        "x": 0.6310453092995089,
+        "y": 0.6310453092995089,
+        "z": 0.6310453092995089
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -7,
+        "z": -288.5
+      },
+      "r": {
+        "x": 180,
+        "y": 15.000001232265998,
+        "z": 180
+      },
+      "s": {
+        "x": 0.25582917944574685,
+        "y": 0.25582917944574685,
+        "z": 0.25582917944574685
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 9.5,
+        "y": -7,
+        "z": -295
+      },
+      "r": {
+        "x": 0,
+        "y": 74.99999876773406,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5116583588914937,
+        "y": 0.5116583588914937,
+        "z": 0.5116583588914937
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 13.5,
+        "y": -7,
+        "z": -392
+      },
+      "r": {
+        "x": 180,
+        "y": -74.9999999760697,
+        "z": 180
+      },
+      "s": {
+        "x": 0.3069950153348962,
+        "y": 0.3069950153348962,
+        "z": 0.3069950153348962
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": -7,
+        "z": -280
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.06822111451886582,
+        "y": 0.06822111451886582,
+        "z": 0.06822111451886582
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 2,
+        "y": -7,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5457689161509266,
+        "y": 0.5457689161509266,
+        "z": 0.5457689161509266
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3,
+        "y": -7,
+        "z": -271.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 10,
+        "y": -7,
+        "z": -286.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 2.5,
+        "y": -7,
+        "z": -297.5
+      },
+      "r": {
+        "x": 0,
+        "y": -74.99999876773406,
+        "z": 0
+      },
+      "s": {
+        "x": 0.25582917944574685,
+        "y": 0.25582917944574685,
+        "z": 0.25582917944574685
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": -7,
+        "z": -305.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.32405029396461266,
+        "y": 0.32405029396461266,
+        "z": 0.32405029396461266
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 1.5,
+        "y": -7,
+        "z": -282.5
+      },
+      "r": {
+        "x": 0,
+        "y": 75.00000043637414,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3,
+        "y": -7,
+        "z": -292.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.13644222903773165,
+        "y": 0.13644222903773165,
+        "z": 0.13644222903773165
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 13,
+        "y": -7,
+        "z": -288.5
+      },
+      "r": {
+        "x": 0,
+        "y": -75.0000003847844,
+        "z": 0
+      },
+      "s": {
+        "x": 0.2217186221863139,
+        "y": 0.2217186221863139,
+        "z": 0.2217186221863139
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 15,
+        "y": -7,
+        "z": -298.5
+      },
+      "r": {
+        "x": 0,
+        "y": 75.00000021281876,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1534975076674481,
+        "y": 0.1534975076674481,
+        "z": 0.1534975076674481
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 15,
+        "y": -7,
+        "z": -294.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 16.5,
+        "y": -7,
+        "z": -287.5
+      },
+      "r": {
+        "x": 0,
+        "y": 29.999999999999993,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": -7,
+        "z": -276
+      },
+      "r": {
+        "x": 180,
+        "y": 0.000004065797387747217,
+        "z": 180
+      },
+      "s": {
+        "x": 0.13644222903773165,
+        "y": 0.13644222903773165,
+        "z": 0.13644222903773165
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -7,
+        "z": -308
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -0.5,
+        "y": -7,
+        "z": -308
+      },
+      "r": {
+        "x": 0,
+        "y": 59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 0.17055278629716455,
+        "y": 0.17055278629716455,
+        "z": 0.17055278629716455
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7,
+        "z": -301.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1534975076674481,
+        "y": 0.1534975076674481,
+        "z": 0.1534975076674481
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -7,
+        "z": -315.5
+      },
+      "r": {
+        "x": 0,
+        "y": 59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 0.8015980955966734,
+        "y": 0.8015980955966734,
+        "z": 0.8015980955966734
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 12,
+        "y": -7,
+        "z": -324
+      },
+      "r": {
+        "x": 180,
+        "y": 14.999999787181258,
+        "z": 180
+      },
+      "s": {
+        "x": 0.3069950153348962,
+        "y": 0.3069950153348962,
+        "z": 0.3069950153348962
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -2,
+        "y": -7,
+        "z": -311.5
+      },
+      "r": {
+        "x": 0,
+        "y": -59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 0.20466334355659746,
+        "y": 0.20466334355659746,
+        "z": 0.20466334355659746
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 13.5,
+        "y": -7,
+        "z": -309.5
+      },
+      "r": {
+        "x": 0,
+        "y": 45.00000043637411,
+        "z": 0
+      },
+      "s": {
+        "x": 0.17055278629716455,
+        "y": 0.17055278629716455,
+        "z": 0.17055278629716455
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7,
+        "z": -328.5
+      },
+      "r": {
+        "x": 0,
+        "y": -60.0000018630106,
+        "z": 0
+      },
+      "s": {
+        "x": 0.32405029396461266,
+        "y": 0.32405029396461266,
+        "z": 0.32405029396461266
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 12.5,
+        "y": -7,
+        "z": -320
+      },
+      "r": {
+        "x": 0,
+        "y": 75.00000043637414,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 15,
+        "y": -7,
+        "z": -312
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.06822111451886582,
+        "y": 0.06822111451886582,
+        "z": 0.06822111451886582
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 15,
+        "y": -7,
+        "z": -317.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.13644222903773165,
+        "y": 0.13644222903773165,
+        "z": 0.13644222903773165
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 14,
+        "y": -7,
+        "z": -313.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 15,
+        "y": -7,
+        "z": -321
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.03411055725943292,
+        "y": 0.03411055725943292,
+        "z": 0.03411055725943292
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -3.5,
+        "y": -7,
+        "z": -319
+      },
+      "r": {
+        "x": 0,
+        "y": -59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 0.3069950153348962,
+        "y": 0.3069950153348962,
+        "z": 0.3069950153348962
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -2.5,
+        "y": -7,
+        "z": -314.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": -7,
+        "z": -325
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.32405029396461266,
+        "y": 0.32405029396461266,
+        "z": 0.32405029396461266
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": -7,
+        "z": -324
+      },
+      "r": {
+        "x": 0,
+        "y": 44.9999995636259,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 2.5,
+        "y": -7,
+        "z": -330
+      },
+      "r": {
+        "x": 0,
+        "y": -44.999999647459155,
+        "z": 0
+      },
+      "s": {
+        "x": 0.06822111451886582,
+        "y": 0.06822111451886582,
+        "z": 0.06822111451886582
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7,
+        "z": -337.5
+      },
+      "r": {
+        "x": 180,
+        "y": 0.000004065797387747217,
+        "z": 180
+      },
+      "s": {
+        "x": 0.5457689161509266,
+        "y": 0.5457689161509266,
+        "z": 0.5457689161509266
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 12,
+        "y": -7,
+        "z": -344.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.4093266871131949,
+        "y": 0.4093266871131949,
+        "z": 0.4093266871131949
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 2.5,
+        "y": -7,
+        "z": -343
+      },
+      "r": {
+        "x": 0,
+        "y": 44.99999978718126,
+        "z": 0
+      },
+      "s": {
+        "x": 0.05116583588914937,
+        "y": 0.05116583588914937,
+        "z": 0.05116583588914937
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 5,
+        "y": -7,
+        "z": -343.5
+      },
+      "r": {
+        "x": 0,
+        "y": -44.99999607865693,
+        "z": 0
+      },
+      "s": {
+        "x": 0.13644222903773165,
+        "y": 0.13644222903773165,
+        "z": 0.13644222903773165
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 2.5,
+        "y": -7,
+        "z": -346.5
+      },
+      "r": {
+        "x": 0,
+        "y": -30.000000000178154,
+        "z": 0
+      },
+      "s": {
+        "x": 0.20466334355659746,
+        "y": 0.20466334355659746,
+        "z": 0.20466334355659746
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": -7,
+        "z": -343
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7,
+        "z": -350.5
+      },
+      "r": {
+        "x": 0,
+        "y": -14.9999996152156,
+        "z": 0
+      },
+      "s": {
+        "x": 0.2217186221863139,
+        "y": 0.2217186221863139,
+        "z": 0.2217186221863139
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7,
+        "z": -346.5
+      },
+      "r": {
+        "x": 0,
+        "y": 59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1534975076674481,
+        "y": 0.1534975076674481,
+        "z": 0.1534975076674481
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 9,
+        "y": -7,
+        "z": -348.5
+      },
+      "r": {
+        "x": 0,
+        "y": -75.00000043637412,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -1,
+        "y": -7,
+        "z": -359
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -7,
+        "z": -361
+      },
+      "r": {
+        "x": 0,
+        "y": 4.175889072505297e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 0.05116583588914937,
+        "y": 0.05116583588914937,
+        "z": 0.05116583588914937
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 9,
+        "y": -7,
+        "z": -369
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.4434372443726278,
+        "y": 0.4434372443726278,
+        "z": 0.4434372443726278
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 1,
+        "y": -7,
+        "z": -363.5
+      },
+      "r": {
+        "x": 0,
+        "y": 30.000000000178154,
+        "z": 0
+      },
+      "s": {
+        "x": 0.4093266871131949,
+        "y": 0.4093266871131949,
+        "z": 0.4093266871131949
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -7,
+        "z": -356
+      },
+      "r": {
+        "x": 0,
+        "y": -59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 0.3411055725943291,
+        "y": 0.3411055725943291,
+        "z": 0.3411055725943291
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": -7,
+        "z": -349.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.05116583588914937,
+        "y": 0.05116583588914937,
+        "z": 0.05116583588914937
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3,
+        "y": -7,
+        "z": -351.5
+      },
+      "r": {
+        "x": 180,
+        "y": 45.00000043637411,
+        "z": 180
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -1.5,
+        "y": -7,
+        "z": -354
+      },
+      "r": {
+        "x": 180,
+        "y": -6.974060040723616e-7,
+        "z": 180
+      },
+      "s": {
+        "x": 0.4946030802617772,
+        "y": 0.4946030802617772,
+        "z": 0.4946030802617772
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 4,
+        "y": -7,
+        "z": -368
+      },
+      "r": {
+        "x": 180,
+        "y": -14.999999999821801,
+        "z": 180
+      },
+      "s": {
+        "x": 0.05116583588914937,
+        "y": 0.05116583588914937,
+        "z": 0.05116583588914937
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": -7,
+        "z": -371
+      },
+      "r": {
+        "x": 180,
+        "y": -45.000000314434814,
+        "z": 180
+      },
+      "s": {
+        "x": 0.187608064926881,
+        "y": 0.187608064926881,
+        "z": 0.187608064926881
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -7,
+        "z": -365.5
+      },
+      "r": {
+        "x": 0,
+        "y": -44.9999995636259,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": -7,
+        "z": -363
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.20466334355659746,
+        "y": 0.20466334355659746,
+        "z": 0.20466334355659746
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": -7,
+        "z": -359.5
+      },
+      "r": {
+        "x": 0,
+        "y": 45.00000021281875,
+        "z": 0
+      },
+      "s": {
+        "x": 0.10233167177829873,
+        "y": 0.10233167177829873,
+        "z": 0.10233167177829873
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -7,
+        "z": -406
+      },
+      "r": {
+        "x": 0,
+        "y": -30.00000041758889,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 11.5,
+        "y": -7,
+        "z": -402.5
+      },
+      "r": {
+        "x": 180,
+        "y": -59.99999999999999,
+        "z": 180
+      },
+      "s": {
+        "x": 0.17055278629716455,
+        "y": 0.17055278629716455,
+        "z": 0.17055278629716455
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": -7,
+        "z": -407.5
+      },
+      "r": {
+        "x": 0,
+        "y": -44.99999968556516,
+        "z": 0
+      },
+      "s": {
+        "x": 0.375216129853762,
+        "y": 0.375216129853762,
+        "z": 0.375216129853762
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 9.5,
+        "y": -7,
+        "z": -389.5
+      },
+      "r": {
+        "x": 0,
+        "y": -44.99999978718126,
+        "z": 0
+      },
+      "s": {
+        "x": 0.2046633435565975,
+        "y": 0.2046633435565975,
+        "z": 0.2046633435565975
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": -7,
+        "z": -393
+      },
+      "r": {
+        "x": 180,
+        "y": 75.0000004175889,
+        "z": 180
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -7,
+        "z": -372.5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.06822111451886582,
+        "y": 0.06822111451886582,
+        "z": 0.06822111451886582
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": -7,
+        "z": -392
+      },
+      "r": {
+        "x": 180,
+        "y": -74.99999766352849,
+        "z": 180
+      },
+      "s": {
+        "x": 0.32405029396461266,
+        "y": 0.32405029396461266,
+        "z": 0.32405029396461266
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 11,
+        "y": -7,
+        "z": -384
+      },
+      "r": {
+        "x": 180,
+        "y": 29.999999999999993,
+        "z": 180
+      },
+      "s": {
+        "x": 0.4093266871131949,
+        "y": 0.4093266871131949,
+        "z": 0.4093266871131949
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 1,
+        "y": -7,
+        "z": -385.5
+      },
+      "r": {
+        "x": 180,
+        "y": 30.000004424650342,
+        "z": 180
+      },
+      "s": {
+        "x": 0.06822111451886582,
+        "y": 0.06822111451886582,
+        "z": 0.06822111451886582
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 12,
+        "y": -7,
+        "z": -396
+      },
+      "r": {
+        "x": 0,
+        "y": 74.9999960786569,
+        "z": 0
+      },
+      "s": {
+        "x": 0.13644222903773165,
+        "y": 0.13644222903773165,
+        "z": 0.13644222903773165
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3,
+        "y": -7,
+        "z": -408.5
+      },
+      "r": {
+        "x": 0,
+        "y": 44.999999647459155,
+        "z": 0
+      },
+      "s": {
+        "x": 0.2728844580754633,
+        "y": 0.2728844580754633,
+        "z": 0.2728844580754633
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 4,
+        "y": -7,
+        "z": -400
+      },
+      "r": {
+        "x": 180,
+        "y": 29.999999976069656,
+        "z": 180
+      },
+      "s": {
+        "x": 0.6139900306697924,
+        "y": 0.6139900306697924,
+        "z": 0.6139900306697924
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": -7,
+        "z": -398.5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7,
+        "z": -410.5
+      },
+      "r": {
+        "x": 180,
+        "y": 14.99999815903497,
+        "z": 180
+      },
+      "s": {
+        "x": 0.11938695040801518,
+        "y": 0.11938695040801518,
+        "z": 0.11938695040801518
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 11,
+        "y": -7,
+        "z": -431.5
+      },
+      "r": {
+        "x": 0,
+        "y": 44.999999662983825,
+        "z": 0
+      },
+      "s": {
+        "x": 0.4604925230023443,
+        "y": 0.4604925230023443,
+        "z": 0.4604925230023443
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 4,
+        "y": -7,
+        "z": -457.5
+      },
+      "r": {
+        "x": 180,
+        "y": -44.999997872275614,
+        "z": 180
+      },
+      "s": {
+        "x": 0.6481005879292253,
+        "y": 0.6481005879292253,
+        "z": 0.6481005879292253
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3,
+        "y": -7,
+        "z": -441
+      },
+      "r": {
+        "x": 180,
+        "y": -3.990112682727732e-7,
+        "z": 180
+      },
+      "s": {
+        "x": 0.187608064926881,
+        "y": 0.187608064926881,
+        "z": 0.187608064926881
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 5,
+        "y": -7,
+        "z": -445.5
+      },
+      "r": {
+        "x": 180,
+        "y": 75.00000060681144,
+        "z": 180
+      },
+      "s": {
+        "x": 0.35816085122404556,
+        "y": 0.35816085122404556,
+        "z": 0.35816085122404556
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 5,
+        "y": -7,
+        "z": -450.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.05116583588914937,
+        "y": 0.05116583588914937,
+        "z": 0.05116583588914937
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": -7,
+        "z": -440
+      },
+      "r": {
+        "x": 0,
+        "y": 60.0000018630106,
+        "z": 0
+      },
+      "s": {
+        "x": 0.32405029396461266,
+        "y": 0.32405029396461266,
+        "z": 0.32405029396461266
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 12,
+        "y": -7,
+        "z": -450.5
+      },
+      "r": {
+        "x": 180,
+        "y": 44.9999987782923,
+        "z": 180
+      },
+      "s": {
+        "x": 0.5287136375212101,
+        "y": 0.5287136375212101,
+        "z": 0.5287136375212101
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": -7,
+        "z": -435.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1534975076674481,
+        "y": 0.1534975076674481,
+        "z": 0.1534975076674481
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3,
+        "y": -7,
+        "z": -432.5
+      },
+      "r": {
+        "x": 180,
+        "y": 14.999999685565182,
+        "z": 180
+      },
+      "s": {
+        "x": 0.375216129853762,
+        "y": 0.375216129853762,
+        "z": 0.375216129853762
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": -7,
+        "z": -438
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": -7,
+        "z": -419.5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.9209850460046886,
+        "y": 0.9209850460046886,
+        "z": 0.9209850460046886
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": -7.5,
+        "z": -444
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.15349750766744813,
+        "y": 0.15349750766744813,
+        "z": 0.15349750766744813
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 11.5,
+        "y": -7,
+        "z": -457
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.06822111451886582,
+        "y": 0.06822111451886582,
+        "z": 0.06822111451886582
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 3,
+        "y": -7,
+        "z": -477
+      },
+      "r": {
+        "x": 0,
+        "y": -29.999999999999993,
+        "z": 0
+      },
+      "s": {
+        "x": 0.3411055725943291,
+        "y": 0.3411055725943291,
+        "z": 0.3411055725943291
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -7,
+        "z": -468
+      },
+      "r": {
+        "x": 0,
+        "y": 59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 0.23877390081603037,
+        "y": 0.23877390081603037,
+        "z": 0.23877390081603037
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": -7,
+        "z": -464.5
+      },
+      "r": {
+        "x": 0,
+        "y": -44.9999995636259,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 11.5,
+        "y": -7,
+        "z": -462.5
+      },
+      "r": {
+        "x": 180,
+        "y": 45.00000038478441,
+        "z": 180
+      },
+      "s": {
+        "x": 0.2217186221863139,
+        "y": 0.2217186221863139,
+        "z": 0.2217186221863139
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -7,
+        "z": -472
+      },
+      "r": {
+        "x": 0,
+        "y": -59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 0.05116583588914937,
+        "y": 0.05116583588914937,
+        "z": 0.05116583588914937
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 4,
+        "y": -7,
+        "z": -488.5
+      },
+      "r": {
+        "x": 0,
+        "y": 59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 0.4093266871131949,
+        "y": 0.4093266871131949,
+        "z": 0.4093266871131949
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": -7,
+        "z": -482
+      },
+      "r": {
+        "x": 0,
+        "y": -75.00000021281876,
+        "z": 0
+      },
+      "s": {
+        "x": 0.6139900306697924,
+        "y": 0.6139900306697924,
+        "z": 0.6139900306697924
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": -7,
+        "z": -476.5
+      },
+      "r": {
+        "x": 0,
+        "y": -14.999999999999998,
+        "z": 0
+      },
+      "s": {
+        "x": 0.05116583588914937,
+        "y": 0.05116583588914937,
+        "z": 0.05116583588914937
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 1,
+        "y": -7,
+        "z": -482.5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.28993973670517975,
+        "y": 0.28993973670517975,
+        "z": 0.28993973670517975
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": -7,
+        "z": -474
+      },
+      "r": {
+        "x": 180,
+        "y": 60.000000791248056,
+        "z": 180
+      },
+      "s": {
+        "x": 0.25582917944574685,
+        "y": 0.25582917944574685,
+        "z": 0.25582917944574685
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 12.5,
+        "y": -7,
+        "z": -468
+      },
+      "r": {
+        "x": 180,
+        "y": -45.000000261417725,
+        "z": 180
+      },
+      "s": {
+        "x": 0.39227140848347847,
+        "y": 0.39227140848347847,
+        "z": 0.39227140848347847
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -7,
+        "z": -437.5
+      },
+      "r": {
+        "x": 180,
+        "y": -59.99999958241111,
+        "z": 180
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -7,
+        "z": -508.5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1534975076674481,
+        "y": 0.1534975076674481,
+        "z": 0.1534975076674481
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7,
+        "z": -516.5
+      },
+      "r": {
+        "x": 180,
+        "y": 6.586826808533402e-7,
+        "z": 180
+      },
+      "s": {
+        "x": 0.5287136375212101,
+        "y": 0.5287136375212101,
+        "z": 0.5287136375212101
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": -7,
+        "z": -523
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 15,
+        "y": -7,
+        "z": -509
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.6481005879292253,
+        "y": 0.6481005879292253,
+        "z": 0.6481005879292253
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 14.5,
+        "y": -7,
+        "z": -522.5
+      },
+      "r": {
+        "x": 180,
+        "y": 8.205345471087107e-7,
+        "z": 180
+      },
+      "s": {
+        "x": 0.5116583588914937,
+        "y": 0.5116583588914937,
+        "z": 0.5116583588914937
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 11.5,
+        "y": -7,
+        "z": -501.5
+      },
+      "r": {
+        "x": 0,
+        "y": -75.00000021281876,
+        "z": 0
+      },
+      "s": {
+        "x": 0.20466334355659746,
+        "y": 0.20466334355659746,
+        "z": 0.20466334355659746
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -7,
+        "z": -529
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.4093266871131949,
+        "y": 0.4093266871131949,
+        "z": 0.4093266871131949
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7,
+        "z": -502.5
+      },
+      "r": {
+        "x": 180,
+        "y": -30.000000000000018,
+        "z": 180
+      },
+      "s": {
+        "x": 0.35816085122404556,
+        "y": 0.35816085122404556,
+        "z": 0.35816085122404556
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": -7,
+        "z": -498
+      },
+      "r": {
+        "x": 180,
+        "y": 15.000003921343078,
+        "z": 180
+      },
+      "s": {
+        "x": 0.13644222903773165,
+        "y": 0.13644222903773165,
+        "z": 0.13644222903773165
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 14.5,
+        "y": -7,
+        "z": -490.5
+      },
+      "r": {
+        "x": 0,
+        "y": -14.999999999999998,
+        "z": 0
+      },
+      "s": {
+        "x": 0.08527639314858228,
+        "y": 0.08527639314858228,
+        "z": 0.08527639314858228
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": -7,
+        "z": -493
+      },
+      "r": {
+        "x": 0,
+        "y": 14.999999999999993,
+        "z": 0
+      },
+      "s": {
+        "x": 0.39227140848347847,
+        "y": 0.39227140848347847,
+        "z": 0.39227140848347847
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYpPmL756Foxa9FJdbnKqAvFhX9Vj2moRVFLjG1GpES9f",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.08527639314858228
+    },
+    {
+      "p": {
+        "x": -15.5,
+        "y": 300.5,
+        "z": 80.5
+      },
+      "r": {
+        "x": -3.959177052711109e-7,
+        "y": 0.0000022041865073066165,
+        "z": 179.99999999999994
+      },
+      "s": {
+        "x": 0.1329998824046653,
+        "y": 0.1329998824046653,
+        "z": 0.1329998824046653
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 300.5,
+        "z": 80.5
+      },
+      "r": {
+        "x": 6.89610461488885e-16,
+        "y": -2.3633805557646156e-7,
+        "z": -179.99999976366198
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": -15.5,
+        "y": 300.5,
+        "z": 106
+      },
+      "r": {
+        "x": -180,
+        "y": 2.3633805557646156e-7,
+        "z": 5.730829107773225e-23
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 300.5,
+        "z": 106
+      },
+      "r": {
+        "x": -180,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": -15.5,
+        "y": 300.5,
+        "z": 80.5
+      },
+      "r": {
+        "x": -3.959177052711109e-7,
+        "y": 0.0000022041865073066165,
+        "z": 179.99999999999994
+      },
+      "s": {
+        "x": 0.1329998824046653,
+        "y": 0.1329998824046653,
+        "z": 0.1329998824046653
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 300.5,
+        "z": 80.5
+      },
+      "r": {
+        "x": 6.89610461488885e-16,
+        "y": -2.3633805557646156e-7,
+        "z": -179.99999976366198
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": -15.5,
+        "y": 300.5,
+        "z": 106
+      },
+      "r": {
+        "x": -180,
+        "y": 2.3633805557646156e-7,
+        "z": 5.730829107773225e-23
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 300.5,
+        "z": 106
+      },
+      "r": {
+        "x": -180,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": -15.5,
+        "y": 300.5,
+        "z": 80.5
+      },
+      "r": {
+        "x": -3.959177052711109e-7,
+        "y": 0.0000022041865073066165,
+        "z": 179.99999999999994
+      },
+      "s": {
+        "x": 0.1329998824046653,
+        "y": 0.1329998824046653,
+        "z": 0.1329998824046653
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 300.5,
+        "z": 80.5
+      },
+      "r": {
+        "x": 6.89610461488885e-16,
+        "y": -2.3633805557646156e-7,
+        "z": -179.99999976366198
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": -15.5,
+        "y": 300.5,
+        "z": 106
+      },
+      "r": {
+        "x": -180,
+        "y": 2.3633805557646156e-7,
+        "z": 5.730829107773225e-23
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 300.5,
+        "z": 106
+      },
+      "r": {
+        "x": -180,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": -15.5,
+        "y": 300.5,
+        "z": 80.5
+      },
+      "r": {
+        "x": -3.959177052711109e-7,
+        "y": 0.0000022041865073066165,
+        "z": 179.99999999999994
+      },
+      "s": {
+        "x": 0.1329998824046653,
+        "y": 0.1329998824046653,
+        "z": 0.1329998824046653
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 300.5,
+        "z": 80.5
+      },
+      "r": {
+        "x": 6.89610461488885e-16,
+        "y": -2.3633805557646156e-7,
+        "z": -179.99999976366198
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": -15.5,
+        "y": 300.5,
+        "z": 106
+      },
+      "r": {
+        "x": -180,
+        "y": 2.3633805557646156e-7,
+        "z": 5.730829107773225e-23
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 300.5,
+        "z": 106
+      },
+      "r": {
+        "x": -180,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.133,
+        "y": 0.133,
+        "z": 0.133
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSBRo3V4MLXQedj6d3mHdQurUqcE1TWnf48x44wJUQ7YW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.004583317000647946
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -26.350000381469727,
+        "z": -730.0009765625
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": -7.955395347557121e-7
+      },
+      "s": {
+        "x": 2.0507777142422605,
+        "y": 2.0507777142422605,
+        "z": 2.0507777142422605
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSYzYsvgYWrp9oBWswxX4dpkHJT2c2juzqBMLb4F4myfj",
+      "met": 1,
+      "ref": 1,
+      "glo": 0.1,
+      "sf": 0.01808445956121906
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": -1955,
+        "z": 310
+      },
+      "r": {
+        "x": 1.4151395883082207e-7,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.7,
+        "y": 6.312525,
+        "z": 0.7
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmZWLFvtmB1m1BaLQkMaoYLunaN3fvhQYKpooapeN8tB7g",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.04006735541128013
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 2.5,
+        "z": -129.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 20.565801939147562,
+        "y": 13.83517595927374,
+        "z": 21.014510337805817
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmeEJ4VSjVXw7sQsVRcWkPccu1Nv5Kv4qSMY8UKKDRojqZ",
+      "met": 1,
+      "ref": 1,
+      "glo": 1,
+      "sf": 0.373923665548543
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -6.099999904632568,
+        "z": -812.0009765625
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 8.736720805330352e-7
+      },
+      "s": {
+        "x": 2.8298945078656224,
+        "y": 2.8298945078656224,
+        "z": 2.8298945078656224
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmdVHsGBLxSAsRrx5yZNJsBTAxpnZSVMxVUqNiBe5vmV5M",
+      "met": 0.9,
+      "ref": 0.3,
+      "glo": 0.1,
+      "sf": 0.21118615730340473
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -395.8800048828125,
+        "z": -958
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.068467775281713,
+        "y": 5.068467775281713,
+        "z": 5.068467775281713
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmdVHsGBLxSAsRrx5yZNJsBTAxpnZSVMxVUqNiBe5vmV5M",
+      "met": 0.9,
+      "ref": 0.3,
+      "glo": 0.1,
+      "sf": 0.21118615730340473
+    },
+    {
+      "p": {
+        "x": 7.800000190734863,
+        "y": -0.5,
+        "z": -285.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.7734405786070575,
+        "y": 0.7734405786070575,
+        "z": 0.7734405786070575
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmWJKHsoFWWHUMwqgXsgvi5dsbPVW6qh8wWvJUp6ycPoiB",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.08228091261777212
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -0.5,
+        "z": -331.6499938964844
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.773441,
+        "y": 0.773441,
+        "z": 0.773441
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmWJKHsoFWWHUMwqgXsgvi5dsbPVW6qh8wWvJUp6ycPoiB",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.08228091261777212
+    },
+    {
+      "p": {
+        "x": 4.119999885559082,
+        "y": -0.5,
+        "z": -374.1499938964844
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.7734405786070575,
+        "y": 0.7734405786070575,
+        "z": 0.7734405786070575
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmWJKHsoFWWHUMwqgXsgvi5dsbPVW6qh8wWvJUp6ycPoiB",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.08228091261777212
+    },
+    {
+      "p": {
+        "x": 6.150000095367432,
+        "y": -0.5,
+        "z": -428.1499938964844
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.7734405786070575,
+        "y": 0.7734405786070575,
+        "z": 0.7734405786070575
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmWJKHsoFWWHUMwqgXsgvi5dsbPVW6qh8wWvJUp6ycPoiB",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.08228091261777212
+    },
+    {
+      "p": {
+        "x": 6.510000228881836,
+        "y": -0.5,
+        "z": -463.29998779296875
+      },
+      "r": {
+        "x": 0,
+        "y": -29.999999306681232,
+        "z": 0
+      },
+      "s": {
+        "x": 0.7734405786070575,
+        "y": 0.7734405786070575,
+        "z": 0.7734405786070575
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmWJKHsoFWWHUMwqgXsgvi5dsbPVW6qh8wWvJUp6ycPoiB",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.08228091261777212
+    },
+    {
+      "p": {
+        "x": 8.484999656677246,
+        "y": -0.5,
+        "z": -496.5150146484375
+      },
+      "r": {
+        "x": 0,
+        "y": 14.999999999999993,
+        "z": 0
+      },
+      "s": {
+        "x": 0.7734405786070575,
+        "y": 0.7734405786070575,
+        "z": 0.7734405786070575
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmWJKHsoFWWHUMwqgXsgvi5dsbPVW6qh8wWvJUp6ycPoiB",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.08228091261777212
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -340.70001220703125,
+        "z": -958.7000122070312
+      },
+      "r": {
+        "x": 180,
+        "y": 6.891203410716809e-7,
+        "z": 180
+      },
+      "s": {
+        "x": 13.382759928861262,
+        "y": 8.835639596880483,
+        "z": 13.382759928861262
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZUhad3VkvcUJ2XNvZNMVFY9X1kZ6mNp1PMPuWaFKwC5X",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.6738500296411443
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -395.6499938964844,
+        "z": -981.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": 19.700000762939453,
+        "y": -413.2099914550781,
+        "z": -1072.9599609375
+      },
+      "r": {
+        "x": 0,
+        "y": -59.99999821123222,
+        "z": 0
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": -82,
+        "y": -395.7200012207031,
+        "z": -1131.9150390625
+      },
+      "r": {
+        "x": -6.191374344954218e-15,
+        "y": 6.303708446001803e-7,
+        "z": 6.303708461341055e-7
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": -66,
+        "y": -395.7099914550781,
+        "z": -1104.5
+      },
+      "r": {
+        "x": 180,
+        "y": -59.99999814787806,
+        "z": 180
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": -66.22000122070312,
+        "y": -395.70001220703125,
+        "z": -1124.5999755859375
+      },
+      "r": {
+        "x": 0,
+        "y": -60.00000178876782,
+        "z": 0
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": 20.799999237060547,
+        "y": -413.3630065917969,
+        "z": -1157.5999755859375
+      },
+      "r": {
+        "x": 180,
+        "y": -59.99999814787806,
+        "z": 180
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": 89.5,
+        "y": -413.25,
+        "z": -1196.219970703125
+      },
+      "r": {
+        "x": 180,
+        "y": 0.0000018131313647639525,
+        "z": 180
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": -413.20001220703125,
+        "z": -1182.699951171875
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": 73.75,
+        "y": -413.1499938964844,
+        "z": -1221.4000244140625
+      },
+      "r": {
+        "x": 0,
+        "y": 59.99999814787806,
+        "z": 0
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": -66.6500015258789,
+        "y": -413.239990234375,
+        "z": -1223.4000244140625
+      },
+      "r": {
+        "x": 0,
+        "y": -60.00000178876782,
+        "z": 0
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaNJmVojnzujZfyEEGXRQUtVHVcdewbCsUbQ7mNuRWGfa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.16846337681767057
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -23.350000381469727,
+        "z": -730.0009765625
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.050778,
+        "y": 2.050778,
+        "z": 2.050778
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmb1hLL9bxPLEg8veZL75AKRXyDGwqPo5xrppv5vhJyLtB",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.02338543471435924
+    },
+    {
+      "p": {
+        "x": 49,
+        "y": -405.3630065917969,
+        "z": -1050
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.8671187473653514,
+        "y": 3.8671187473653514,
+        "z": 3.8671187473653514
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -14,
+        "y": -406.8630065917969,
+        "z": -1034
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 5,
+        "y": -406.8630065917969,
+        "z": -1034.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -3.5,
+        "y": -406.8630065917969,
+        "z": -1018.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 102.5,
+        "y": -422.42999267578125,
+        "z": -1069.5
+      },
+      "r": {
+        "x": 0,
+        "y": -59.99999999999999,
+        "z": 0
+      },
+      "s": {
+        "x": 3.8671183736826755,
+        "y": 3.8671183736826755,
+        "z": 3.8671183736826755
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 106.5,
+        "y": -424.42999267578125,
+        "z": -1095.5
+      },
+      "r": {
+        "x": 0,
+        "y": -30.00000321978202,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 81.5,
+        "y": -424.42999267578125,
+        "z": -1091
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 48.5,
+        "y": -424.42999267578125,
+        "z": -1099.5
+      },
+      "r": {
+        "x": 180,
+        "y": -29.999996780218016,
+        "z": 180
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -49,
+        "y": -387.92999267578125,
+        "z": -1147
+      },
+      "r": {
+        "x": 0,
+        "y": 60.000003219781995,
+        "z": 0
+      },
+      "s": {
+        "x": 3.8671183736826755,
+        "y": 3.8671183736826755,
+        "z": 3.8671183736826755
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -92,
+        "y": -389.42999267578125,
+        "z": -1091
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -39,
+        "y": -389.42999267578125,
+        "z": -1129
+      },
+      "r": {
+        "x": 0,
+        "y": 29.999999530794852,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -47.5,
+        "y": -389.42999267578125,
+        "z": -1083.5
+      },
+      "r": {
+        "x": 0,
+        "y": -29.99999733164284,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 48,
+        "y": -405.3630065917969,
+        "z": -1153
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.867118373682675,
+        "y": 3.867118373682675,
+        "z": 3.867118373682675
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 29.5,
+        "y": -407.3630065917969,
+        "z": -1169
+      },
+      "r": {
+        "x": 0,
+        "y": 29.999999530794852,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": -407.3630065917969,
+        "z": -1141
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -10.5,
+        "y": -407.3630065917969,
+        "z": -1185.5
+      },
+      "r": {
+        "x": 180,
+        "y": 30.000004008045067,
+        "z": 180
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 134.5,
+        "y": -404.82000732421875,
+        "z": -1201.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.8671183736826755,
+        "y": 3.8671183736826755,
+        "z": 3.8671183736826755
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 111,
+        "y": -406.32000732421875,
+        "z": -1199.5
+      },
+      "r": {
+        "x": 0,
+        "y": -14.999999999999998,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 123,
+        "y": -406.32000732421875,
+        "z": -1194
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -50,
+        "y": -405.32000732421875,
+        "z": -1245.5
+      },
+      "r": {
+        "x": 0,
+        "y": 60.0000014696186,
+        "z": 0
+      },
+      "s": {
+        "x": 3.8671183736826755,
+        "y": 3.8671183736826755,
+        "z": 3.8671183736826755
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -91,
+        "y": -406.82000732421875,
+        "z": -1170
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -40,
+        "y": -406.82000732421875,
+        "z": -1229
+      },
+      "r": {
+        "x": 0,
+        "y": 30.00000321978202,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 48.5,
+        "y": -423.92999267578125,
+        "z": -1253.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.8671183736826755,
+        "y": 3.8671183736826755,
+        "z": 3.8671183736826755
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 43.5,
+        "y": -425.42999267578125,
+        "z": -1241
+      },
+      "r": {
+        "x": 0,
+        "y": -15.000001014474481,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -38.5,
+        "y": -425.42999267578125,
+        "z": -1251
+      },
+      "r": {
+        "x": 180,
+        "y": -29.99999623206682,
+        "z": 180
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -5,
+        "y": -425.42999267578125,
+        "z": -1220
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": -47.5,
+        "y": -406.82000732421875,
+        "z": -1185
+      },
+      "r": {
+        "x": 0,
+        "y": -29.999999530794852,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZpcP9bfnS5gX9eMHAGmVHNH9iC1LdiW5hqWWFTPiFNEe",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.083898434206689
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -345.70001220703125,
+        "z": -958.7000122070312
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 12.803753170824606,
+        "y": 19.7734573176537,
+        "z": 12.803753170824606
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYNtRLpXbSSFRpYjGz9y2zPzGk61hWDq6AyoGtWiAYrBa",
+      "met": 0,
+      "ref": 1,
+      "glo": 0.1,
+      "sf": 0.12265426823462476
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -5.349999904632568,
+        "z": -648.5
+      },
+      "r": {
+        "x": 179.9999967019653,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.42447632126083695,
+        "y": 0.42447632126083695,
+        "z": 0.42447632126083695
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbY8A4m5SqKXMaLNoNJyjPxPpA8sso7BSoiy7v3RT99DQ",
+      "met": 1,
+      "ref": 0,
+      "glo": 0.3,
+      "sf": 0.02721002059364336
+    },
+    {
+      "p": {
+        "x": -40,
+        "y": -626.9299926757812,
+        "z": -1403.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.8064485549849993,
+        "y": 3.8064485549849993,
+        "z": 2.906448554984985
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXX3ovrNGMX7hpmC9Y3hETABYrcVFyAC5h82mMRERkjtG",
+      "met": 0.5,
+      "ref": 0.1,
+      "glo": 0,
+      "sf": 0.03173801975927466
+    },
+    {
+      "p": {
+        "x": 13.5,
+        "y": -4.5,
+        "z": -648
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.424476,
+        "y": 0.424476,
+        "z": 0.424476
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXxtPzxGN89C8Rp99DotFXST79bZbHG1kzU3YWvVQW37Z",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.027042124283890783
+    },
+    {
+      "p": {
+        "x": -40,
+        "y": -675.9299926757812,
+        "z": -1190
+      },
+      "r": {
+        "x": 180,
+        "y": -1.4486142266085943e-7,
+        "z": 180
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmY3ZWopi5qHqWKVwm7Nf1YqvPa6kLBKKcMDdZw3kdPoBU",
+      "met": 0.3,
+      "ref": 0.2,
+      "glo": 0,
+      "sf": 0.02280084730370777
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -6.849999904632568,
+        "z": -603
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.4661544650646094,
+        "y": 4.4661544650646094,
+        "z": 4.4661544650646094
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSd5rytDvA197ajtYCPb7rpU9thFfgScgaBDZ587rJYGE",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.18155099451482173
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -0.34999990463256836,
+        "z": -681
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.971065651221264,
+        "y": 5.971065651221264,
+        "z": 6.929922909081619
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmTYsdXJ27nsB6zAEn8V8j8H4aRitz5dfbm94frHvMW9Hf",
+      "met": 0.8,
+      "ref": 0.1,
+      "glo": 0,
+      "sf": 0.21792210405916965
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -0.3499999940395355,
+        "z": -744.5999755859375
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.971066,
+        "y": 5.971066,
+        "z": 6.929923
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmTYsdXJ27nsB6zAEn8V8j8H4aRitz5dfbm94frHvMW9Hf",
+      "met": 0.8,
+      "ref": 0.1,
+      "glo": 0,
+      "sf": 0.21792210405916965
+    },
+    {
+      "p": {
+        "x": 25,
+        "y": -6.849999904632568,
+        "z": -582.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5428964299099649,
+        "y": 0.5428964299099649,
+        "z": 0.5428964299099649
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmQvzgBrqAsTuKjJsfT8pvyEBA2UaUf974VdDeVXEmV1cn",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.24677110450452946
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -6.849999904632568,
+        "z": -602
+      },
+      "r": {
+        "x": 180,
+        "y": 0.0000010133153706835128,
+        "z": 180
+      },
+      "s": {
+        "x": 0.542896,
+        "y": 0.542896,
+        "z": 0.542896
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmQvzgBrqAsTuKjJsfT8pvyEBA2UaUf974VdDeVXEmV1cn",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.24677110450452946
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -5.849999904632568,
+        "z": -676
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.856257,
+        "y": 1.856257,
+        "z": 1.856257
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmepdqA8jmpa6weG4jnhGtK21zugkxzzzXRCgm9xF5az9F",
+      "met": 0.8,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.14278898523514166
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -5.849999904632568,
+        "z": -702.0009765625
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.856257,
+        "y": 1.856257,
+        "z": 1.856257
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmepdqA8jmpa6weG4jnhGtK21zugkxzzzXRCgm9xF5az9F",
+      "met": 0.8,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.14278898523514166
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -5.849999904632568,
+        "z": -728.0009765625
+      },
+      "r": {
+        "x": 0,
+        "y": 5.6708195859684066e-8,
+        "z": 0
+      },
+      "s": {
+        "x": 1.856257,
+        "y": 1.856257,
+        "z": 1.856257
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmepdqA8jmpa6weG4jnhGtK21zugkxzzzXRCgm9xF5az9F",
+      "met": 0.8,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.14278898523514166
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -5.849999904632568,
+        "z": -754.0009765625
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.856257,
+        "y": 1.856257,
+        "z": 1.856257
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmepdqA8jmpa6weG4jnhGtK21zugkxzzzXRCgm9xF5az9F",
+      "met": 0.8,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.14278898523514166
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -5.849999904632568,
+        "z": -780.0009765625
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.856257,
+        "y": 1.856257,
+        "z": 1.856257
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmepdqA8jmpa6weG4jnhGtK21zugkxzzzXRCgm9xF5az9F",
+      "met": 0.8,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.14278898523514166
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -7.25,
+        "z": -828.0009765625
+      },
+      "r": {
+        "x": -29.999998901823155,
+        "y": -5.670820496300533e-8,
+        "z": 5.670820046403389e-8
+      },
+      "s": {
+        "x": 1.856257,
+        "y": 1.856257,
+        "z": 2.1989505645643415
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmepdqA8jmpa6weG4jnhGtK21zugkxzzzXRCgm9xF5az9F",
+      "met": 0.8,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.14278898523514166
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -5.349999904632568,
+        "z": -650.5
+      },
+      "r": {
+        "x": 179.99999957698677,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.4684130231773782,
+        "y": 0.4684130231773782,
+        "z": 0.4684130231773782
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmRL3sVgPGfYyTiWDK9L15YmmyonvcdELm6xnvM2Xu7AiQ",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.01829738371786638
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 303.7099914550781,
+        "z": 22.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1402493136237696,
+        "y": 0.1402493136237696,
+        "z": 0.13286777080146595
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/Qmazxvyrp2a6YJgXFiAehwcUh8QdMMsx5wNzgUX9NZHWFc",
+      "met": 0.9,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.036907714111518324
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 303.7099914550781,
+        "z": 22.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1402493136237696,
+        "y": 0.1402493136237696,
+        "z": 0.13286777080146595
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/Qmazxvyrp2a6YJgXFiAehwcUh8QdMMsx5wNzgUX9NZHWFc",
+      "met": 0.9,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.036907714111518324
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 303.7099914550781,
+        "z": 22.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1402493136237696,
+        "y": 0.1402493136237696,
+        "z": 0.13286777080146595
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/Qmazxvyrp2a6YJgXFiAehwcUh8QdMMsx5wNzgUX9NZHWFc",
+      "met": 0.9,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.036907714111518324
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 303.7099914550781,
+        "z": 22.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1402493136237696,
+        "y": 0.1402493136237696,
+        "z": 0.13286777080146595
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/Qmazxvyrp2a6YJgXFiAehwcUh8QdMMsx5wNzgUX9NZHWFc",
+      "met": 0.9,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.036907714111518324
+    },
+    {
+      "p": {
+        "x": 5,
+        "y": -111.5,
+        "z": -212
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.218466591906978,
+        "y": 6,
+        "z": 6
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXmo35gMC55E1NX7z36uNM7mH52CA7pnmgY5TCVGAMvnq",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.09102774662790787
+    },
+    {
+      "p": {
+        "x": 38.45000076293945,
+        "y": -391.8630065917969,
+        "z": -1053.8499755859375
+      },
+      "r": {
+        "x": 0,
+        "y": -0.000002829522783463206,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmf6ZAZNXceLeMhfm8ojj1Hd4ooFY5YQEWhozKf8kXxs2x",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.1119947460376436
+    },
+    {
+      "p": {
+        "x": -47.5,
+        "y": -374.3630065917969,
+        "z": -1104.6500244140625
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmf6ZAZNXceLeMhfm8ojj1Hd4ooFY5YQEWhozKf8kXxs2x",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.1119947460376436
+    },
+    {
+      "p": {
+        "x": 38.45000076293945,
+        "y": -391.3630065917969,
+        "z": -1155.8499755859375
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmf6ZAZNXceLeMhfm8ojj1Hd4ooFY5YQEWhozKf8kXxs2x",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.1119947460376436
+    },
+    {
+      "p": {
+        "x": 124,
+        "y": -408.42999267578125,
+        "z": -1104.8499755859375
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmf6ZAZNXceLeMhfm8ojj1Hd4ooFY5YQEWhozKf8kXxs2x",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.1119947460376436
+    },
+    {
+      "p": {
+        "x": 123.69999694824219,
+        "y": -393.32000732421875,
+        "z": -1204.699951171875
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmf6ZAZNXceLeMhfm8ojj1Hd4ooFY5YQEWhozKf8kXxs2x",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.1119947460376436
+    },
+    {
+      "p": {
+        "x": 38,
+        "y": -406.92999267578125,
+        "z": -1254.949951171875
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmf6ZAZNXceLeMhfm8ojj1Hd4ooFY5YQEWhozKf8kXxs2x",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.1119947460376436
+    },
+    {
+      "p": {
+        "x": -48,
+        "y": -390.8599853515625,
+        "z": -1204.3299560546875
+      },
+      "r": {
+        "x": 0,
+        "y": -0.000002829522783463206,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmf6ZAZNXceLeMhfm8ojj1Hd4ooFY5YQEWhozKf8kXxs2x",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.1119947460376436
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -616,
+        "z": -1235.5
+      },
+      "r": {
+        "x": -2.9998412006274954e-16,
+        "y": 4.6920511618109e-7,
+        "z": -4.6920514638460825e-7
+      },
+      "s": {
+        "x": 12.75333316270414,
+        "y": 12.746666497547466,
+        "z": 12.75333316270414
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmReKGweiiTg9Qg4RVrUuxib2riJDzXTcD8tokckxC8iAv",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.03333332578336976
+    },
+    {
+      "p": {
+        "x": -40,
+        "y": -625.9299926757812,
+        "z": -1417.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.8548021851580403,
+        "y": 3.8548021851580403,
+        "z": 2.95480218515804
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmRWVqVa38qFXGQpmZYx4WbDudQXAHpFbRCcNx7L7rKZc9",
+      "met": 0.6,
+      "ref": 0.2,
+      "glo": 0,
+      "sf": 0.04314972685524445
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -7.301000118255615,
+        "z": -557
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.235000090309205,
+        "y": 3.235000090309205,
+        "z": 3.235000090309205
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbyDbVJWkJCmfxoibw5Cq26QHT4hH8nfDmrLNuVVVmvsx",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.15857843579947106
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": -9,
+        "z": -283
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.09,
+        "y": 0.09,
+        "z": 0.09
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbS1iDtVGcQ8HKeWpZUB5LN96xp33f2dzagdYNW7u36Dr",
+      "met": 0.5,
+      "ref": 0,
+      "glo": 0.2,
+      "sf": 0.032719751481859176
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -9,
+        "z": -329
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.09,
+        "y": 0.09,
+        "z": 0.09
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbS1iDtVGcQ8HKeWpZUB5LN96xp33f2dzagdYNW7u36Dr",
+      "met": 0.5,
+      "ref": 0,
+      "glo": 0.2,
+      "sf": 0.032719751481859176
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": -9,
+        "z": -371.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.09,
+        "y": 0.09,
+        "z": 0.09
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbS1iDtVGcQ8HKeWpZUB5LN96xp33f2dzagdYNW7u36Dr",
+      "met": 0.5,
+      "ref": 0,
+      "glo": 0.2,
+      "sf": 0.032719751481859176
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -9,
+        "z": -425.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.09,
+        "y": 0.09,
+        "z": 0.09
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbS1iDtVGcQ8HKeWpZUB5LN96xp33f2dzagdYNW7u36Dr",
+      "met": 0.5,
+      "ref": 0,
+      "glo": 0.2,
+      "sf": 0.032719751481859176
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -9,
+        "z": -461
+      },
+      "r": {
+        "x": 180,
+        "y": -60.00000023660125,
+        "z": 180
+      },
+      "s": {
+        "x": 0.09,
+        "y": 0.09,
+        "z": 0.09
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbS1iDtVGcQ8HKeWpZUB5LN96xp33f2dzagdYNW7u36Dr",
+      "met": 0.5,
+      "ref": 0,
+      "glo": 0.2,
+      "sf": 0.032719751481859176
+    },
+    {
+      "p": {
+        "x": 9.5,
+        "y": -9,
+        "z": -494
+      },
+      "r": {
+        "x": 0,
+        "y": -74.99999999999997,
+        "z": 0
+      },
+      "s": {
+        "x": 0.09,
+        "y": 0.09,
+        "z": 0.09
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbS1iDtVGcQ8HKeWpZUB5LN96xp33f2dzagdYNW7u36Dr",
+      "met": 0.5,
+      "ref": 0,
+      "glo": 0.2,
+      "sf": 0.032719751481859176
+    },
+    {
+      "p": {
+        "x": 5,
+        "y": -116.5,
+        "z": -226.5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 6,
+        "y": 6,
+        "z": 6
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYKynQPxZmQWyXkTr3Zb7AsCnoeabzuMT5AfHRb8pdWGU",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.03689111368355008
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 300.69921875,
+        "z": 53
+      },
+      "r": {
+        "x": 180,
+        "y": -30.000000000000018,
+        "z": 180
+      },
+      "s": {
+        "x": 1.1769922724551831,
+        "y": 1.1769922724551831,
+        "z": 1.1769922724551831
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZY2xZvFZbgj8gtzruM3knbPCdQy1Jr58C99fqku98phz",
+      "met": 0,
+      "ref": 1,
+      "glo": 1,
+      "sf": 0.3461741977809363
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 301.19921875,
+        "z": 53
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.7615832351180596,
+        "y": 0.7615832351180596,
+        "z": 0.7615832351180596
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmZY2xZvFZbgj8gtzruM3knbPCdQy1Jr58C99fqku98phz",
+      "met": 0,
+      "ref": 1,
+      "glo": 1,
+      "sf": 0.3461741977809363
+    },
+    {
+      "p": {
+        "x": -23.5,
+        "y": 287.5,
+        "z": 155
+      },
+      "r": {
+        "x": 0.000002312145566468702,
+        "y": 74.99999914216491,
+        "z": 0.0000025030376159175838
+      },
+      "s": {
+        "x": 390,
+        "y": 390,
+        "z": 390
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYrEezZ5h6usr9jKvJQTkQgyhMPcVNYv9A83DtgaQWVMr",
+      "met": 0.1,
+      "ref": 0,
+      "glo": 0.4,
+      "sf": 0.9999996582655117
+    },
+    {
+      "p": {
+        "x": 2,
+        "y": -58.5,
+        "z": -616.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 72.218237,
+        "y": 70.952909,
+        "z": 72.218237
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbkrAe9gD5P7zLHS7xuSTRTbzKXddCuUW6W9TvkchwUtz",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.1581659229730822
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -12,
+        "z": 146.6999969482422
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4,
+        "y": 4.015918,
+        "z": 3.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmR8nJxiTBXGWKZtzPxcPhZae3Vgu2JPjkD3NHJApWt6D5",
+      "met": 0.8,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.01989697264798367
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -12,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmda7XaXK2v7jf6Vx5LkbwgaoAKXk8vXgHzWaJsCoJ3YBy",
+      "met": 0.8,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.021327992859625684
+    },
+    {
+      "p": {
+        "x": -7.5,
+        "y": 292.1099853515625,
+        "z": -8.010000228881836
+      },
+      "r": {
+        "x": 180,
+        "y": 59.999999257842866,
+        "z": 180
+      },
+      "s": {
+        "x": 0.3276091507428251,
+        "y": 0.3276091507428251,
+        "z": 0.3276091507428251
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmayieubXUTCv2VMkgJriddkZJ7H3D8g5qfhXVEJDGvKnv",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.11700326812243751
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": 292.1099853515625,
+        "z": -8.010000228881836
+      },
+      "r": {
+        "x": 7.016709708175901e-15,
+        "y": 59.99999999999999,
+        "z": -7.0167094230863896e-15
+      },
+      "s": {
+        "x": 0.327609,
+        "y": 0.327609,
+        "z": 0.327609
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmayieubXUTCv2VMkgJriddkZJ7H3D8g5qfhXVEJDGvKnv",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.11700326812243751
+    },
+    {
+      "p": {
+        "x": -7.5,
+        "y": 292.1099853515625,
+        "z": -8.010000228881836
+      },
+      "r": {
+        "x": 180,
+        "y": 59.999999257842866,
+        "z": 180
+      },
+      "s": {
+        "x": 0.3276091507428251,
+        "y": 0.3276091507428251,
+        "z": 0.3276091507428251
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmayieubXUTCv2VMkgJriddkZJ7H3D8g5qfhXVEJDGvKnv",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.11700326812243751
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": 292.1099853515625,
+        "z": -8.010000228881836
+      },
+      "r": {
+        "x": 7.016709708175901e-15,
+        "y": 59.99999999999999,
+        "z": -7.0167094230863896e-15
+      },
+      "s": {
+        "x": 0.327609,
+        "y": 0.327609,
+        "z": 0.327609
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmayieubXUTCv2VMkgJriddkZJ7H3D8g5qfhXVEJDGvKnv",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.11700326812243751
+    },
+    {
+      "p": {
+        "x": -7.5,
+        "y": 292.1099853515625,
+        "z": -8.010000228881836
+      },
+      "r": {
+        "x": 180,
+        "y": 59.999999257842866,
+        "z": 180
+      },
+      "s": {
+        "x": 0.3276091507428251,
+        "y": 0.3276091507428251,
+        "z": 0.3276091507428251
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmayieubXUTCv2VMkgJriddkZJ7H3D8g5qfhXVEJDGvKnv",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.11700326812243751
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": 292.1099853515625,
+        "z": -8.010000228881836
+      },
+      "r": {
+        "x": 7.016709708175901e-15,
+        "y": 59.99999999999999,
+        "z": -7.0167094230863896e-15
+      },
+      "s": {
+        "x": 0.327609,
+        "y": 0.327609,
+        "z": 0.327609
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmayieubXUTCv2VMkgJriddkZJ7H3D8g5qfhXVEJDGvKnv",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.11700326812243751
+    },
+    {
+      "p": {
+        "x": -7.5,
+        "y": 292.1099853515625,
+        "z": -8.010000228881836
+      },
+      "r": {
+        "x": 180,
+        "y": 59.999999257842866,
+        "z": 180
+      },
+      "s": {
+        "x": 0.3276091507428251,
+        "y": 0.3276091507428251,
+        "z": 0.3276091507428251
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmayieubXUTCv2VMkgJriddkZJ7H3D8g5qfhXVEJDGvKnv",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.11700326812243751
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": 292.1099853515625,
+        "z": -8.010000228881836
+      },
+      "r": {
+        "x": 7.016709708175901e-15,
+        "y": 59.99999999999999,
+        "z": -7.0167094230863896e-15
+      },
+      "s": {
+        "x": 0.327609,
+        "y": 0.327609,
+        "z": 0.327609
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmayieubXUTCv2VMkgJriddkZJ7H3D8g5qfhXVEJDGvKnv",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.11700326812243751
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 257.3999938964844,
+        "z": -15.010000228881836
+      },
+      "r": {
+        "x": 180,
+        "y": -6.303707871098428e-7,
+        "z": -179.99999925590086
+      },
+      "s": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmNiYNiBF1WJtAEBaDvrtdnNzmbKBLmRLsN3UuTUf16KTW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.03005197787232368
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 257.3999938964844,
+        "z": -15.010000228881836
+      },
+      "r": {
+        "x": 180,
+        "y": -6.303707871098428e-7,
+        "z": -179.99999925590086
+      },
+      "s": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmNiYNiBF1WJtAEBaDvrtdnNzmbKBLmRLsN3UuTUf16KTW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.03005197787232368
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 257.3999938964844,
+        "z": -15.010000228881836
+      },
+      "r": {
+        "x": 180,
+        "y": -6.303707871098428e-7,
+        "z": -179.99999925590086
+      },
+      "s": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmNiYNiBF1WJtAEBaDvrtdnNzmbKBLmRLsN3UuTUf16KTW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.03005197787232368
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 257.3999938964844,
+        "z": -15.010000228881836
+      },
+      "r": {
+        "x": 180,
+        "y": -6.303707871098428e-7,
+        "z": -179.99999925590086
+      },
+      "s": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmNiYNiBF1WJtAEBaDvrtdnNzmbKBLmRLsN3UuTUf16KTW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.03005197787232368
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": 257.3999938964844,
+        "z": 5.989999771118164
+      },
+      "r": {
+        "x": -7.440990453123623e-7,
+        "y": 6.303708388602541e-7,
+        "z": -6.30370632654713e-7
+      },
+      "s": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmaKij92B2TgxiAtgSjAVSmmegv3bvHuAfw1hsJvTfE5sW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.03005197787232368
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": 257.3999938964844,
+        "z": 5.989999771118164
+      },
+      "r": {
+        "x": -7.440990453123623e-7,
+        "y": 6.303708388602541e-7,
+        "z": -6.30370632654713e-7
+      },
+      "s": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmaKij92B2TgxiAtgSjAVSmmegv3bvHuAfw1hsJvTfE5sW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.03005197787232368
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": 257.3999938964844,
+        "z": 5.989999771118164
+      },
+      "r": {
+        "x": -7.440990453123623e-7,
+        "y": 6.303708388602541e-7,
+        "z": -6.30370632654713e-7
+      },
+      "s": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmaKij92B2TgxiAtgSjAVSmmegv3bvHuAfw1hsJvTfE5sW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.03005197787232368
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": 257.3999938964844,
+        "z": 5.989999771118164
+      },
+      "r": {
+        "x": -7.440990453123623e-7,
+        "y": 6.303708388602541e-7,
+        "z": -6.30370632654713e-7
+      },
+      "s": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmaKij92B2TgxiAtgSjAVSmmegv3bvHuAfw1hsJvTfE5sW",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.03005197787232368
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 222.5,
+        "z": 6
+      },
+      "r": {
+        "x": 180,
+        "y": 0,
+        "z": 180
+      },
+      "s": {
+        "x": 0.63,
+        "y": 0.63,
+        "z": 0.63
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbdmnwTX7sMyEEgeYBXLoznYEPWcphxHmiKLoJpMKzTig",
+      "met": 0.9,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.0037111069496559373
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 299.2099914550781,
+        "z": -19.5
+      },
+      "r": {
+        "x": 75.0000008114098,
+        "y": 3.4199253203603647e-7,
+        "z": 6.230566193345732e-8
+      },
+      "s": {
+        "x": 0.4548445983306354,
+        "y": 0.31270559554836097,
+        "z": 0.4548445983306354
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmZgNaN8Qz6m2M8C3WVAakBFJkptEx6w85xygK81Law97t",
+      "met": 1,
+      "ref": 0.7,
+      "glo": 0,
+      "sf": 0.14213900278227456
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 299.2099914550781,
+        "z": -19.5
+      },
+      "r": {
+        "x": 75.0000008114098,
+        "y": 3.4199253203603647e-7,
+        "z": 6.230566193345732e-8
+      },
+      "s": {
+        "x": 0.4548445983306354,
+        "y": 0.31270559554836097,
+        "z": 0.4548445983306354
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmZgNaN8Qz6m2M8C3WVAakBFJkptEx6w85xygK81Law97t",
+      "met": 1,
+      "ref": 0.7,
+      "glo": 0,
+      "sf": 0.14213900278227456
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 299.2099914550781,
+        "z": -19.5
+      },
+      "r": {
+        "x": 75.0000008114098,
+        "y": 3.4199253203603647e-7,
+        "z": 6.230566193345732e-8
+      },
+      "s": {
+        "x": 0.4548445983306354,
+        "y": 0.31270559554836097,
+        "z": 0.4548445983306354
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmZgNaN8Qz6m2M8C3WVAakBFJkptEx6w85xygK81Law97t",
+      "met": 1,
+      "ref": 0.7,
+      "glo": 0,
+      "sf": 0.14213900278227456
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 299.2099914550781,
+        "z": -19.5
+      },
+      "r": {
+        "x": 75.0000008114098,
+        "y": 3.4199253203603647e-7,
+        "z": 6.230566193345732e-8
+      },
+      "s": {
+        "x": 0.4548445983306354,
+        "y": 0.31270559554836097,
+        "z": 0.4548445983306354
+      },
+      "body": "Static",
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmZgNaN8Qz6m2M8C3WVAakBFJkptEx6w85xygK81Law97t",
+      "met": 1,
+      "ref": 0.7,
+      "glo": 0,
+      "sf": 0.14213900278227456
+    },
+    {
+      "p": {
+        "x": 124,
+        "y": -422.92999267578125,
+        "z": -1104.8499755859375
+      },
+      "r": {
+        "x": -6.303708744191185e-7,
+        "y": 4.692051552997347e-7,
+        "z": -4.692051489657158e-7
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmdc9EeogMQ6jePrY5Y3sZXA2SFqwct3xFEgPgMguWLS7x",
+      "met": 0.9,
+      "ref": 0.2,
+      "glo": 0.1,
+      "sf": 0.1127503344249168
+    },
+    {
+      "p": {
+        "x": 38.45000076293945,
+        "y": -405.3630065917969,
+        "z": -1053.8499755859375
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmdc9EeogMQ6jePrY5Y3sZXA2SFqwct3xFEgPgMguWLS7x",
+      "met": 0.9,
+      "ref": 0.2,
+      "glo": 0.1,
+      "sf": 0.1127503344249168
+    },
+    {
+      "p": {
+        "x": -47,
+        "y": -387.8630065917969,
+        "z": -1104.6500244140625
+      },
+      "r": {
+        "x": 2.7613420213850695e-14,
+        "y": -0.0000037679330077547673,
+        "z": -4.6920514320404967e-7
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmdc9EeogMQ6jePrY5Y3sZXA2SFqwct3xFEgPgMguWLS7x",
+      "met": 0.9,
+      "ref": 0.2,
+      "glo": 0.1,
+      "sf": 0.1127503344249168
+    },
+    {
+      "p": {
+        "x": 38.45000076293945,
+        "y": -405.3630065917969,
+        "z": -1155.8499755859375
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmdc9EeogMQ6jePrY5Y3sZXA2SFqwct3xFEgPgMguWLS7x",
+      "met": 0.9,
+      "ref": 0.2,
+      "glo": 0.1,
+      "sf": 0.1127503344249168
+    },
+    {
+      "p": {
+        "x": 123.69999694824219,
+        "y": -405.32000732421875,
+        "z": -1204.550048828125
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmdc9EeogMQ6jePrY5Y3sZXA2SFqwct3xFEgPgMguWLS7x",
+      "met": 0.9,
+      "ref": 0.2,
+      "glo": 0.1,
+      "sf": 0.1127503344249168
+    },
+    {
+      "p": {
+        "x": -48,
+        "y": -405.3599853515625,
+        "z": -1204.3299560546875
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 4.6920514638460455e-7
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmdc9EeogMQ6jePrY5Y3sZXA2SFqwct3xFEgPgMguWLS7x",
+      "met": 0.9,
+      "ref": 0.2,
+      "glo": 0.1,
+      "sf": 0.1127503344249168
+    },
+    {
+      "p": {
+        "x": 38,
+        "y": -422.92999267578125,
+        "z": -1254.800048828125
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmdc9EeogMQ6jePrY5Y3sZXA2SFqwct3xFEgPgMguWLS7x",
+      "met": 0.9,
+      "ref": 0.2,
+      "glo": 0.1,
+      "sf": 0.1127503344249168
+    },
+    {
+      "p": {
+        "x": -40,
+        "y": -673.4299926757812,
+        "z": -1426.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 1
+      },
+      "body": "Unset",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmSZpWdisyUd27cRZRdrVkCZ5P62WV7GKZFjFLQSvyHGfg",
+      "met": 0.9,
+      "ref": 0.3,
+      "glo": 0.1,
+      "sf": 0.004478050473729308
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": -7,
+        "z": -254.5
+      },
+      "r": {
+        "x": -180,
+        "y": 44.999999999999986,
+        "z": 179.9
+      },
+      "s": {
+        "x": 0.024370277299858606,
+        "y": 0.024370277299858606,
+        "z": 0.03926322453866109
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYXtoyFnvnT8ECGghHyJbttmSUsDVm4rAWUh5Eccj3xQk",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.006769521472182946
+    },
+    {
+      "p": {
+        "x": 17.899999618530273,
+        "y": -395.1499938964844,
+        "z": -934.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.4,
+        "y": 5.4,
+        "z": 5.4
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/Qmf7myxcerC4GV3WQRrZ6JXsai2VdQLgFvkEDydWzDmXPB",
+      "met": 0.9,
+      "ref": 0.2,
+      "glo": 0.1,
+      "sf": 0.041929456237006384
+    }
+  ],
+  "solidground": [
+    {
+      "p": {
+        "x": 6.150000095367432,
+        "y": -6.840000152587891,
+        "z": -556
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 40.5,
+        "y": 1,
+        "z": 45.5
+      },
+      "col": "#ffd38c",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 6.150000095367432,
+        "y": -7.340000152587891,
+        "z": -556
+      },
+      "r": {
+        "x": -8.831548521468493e-17,
+        "y": -7.928841023743769e-8,
+        "z": -179.99999931631996
+      },
+      "s": {
+        "x": 40.5,
+        "y": 1,
+        "z": 45
+      },
+      "col": "#004711",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    }
+  ],
+  "solidbox": [
+    {
+      "p": {
+        "x": 0.5,
+        "y": 310.8299865722656,
+        "z": 90
+      },
+      "r": {
+        "x": 8.750663954003723e-8,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 12.5,
+        "y": 9.5,
+        "z": 12.5
+      },
+      "col": "#e66700",
+      "met": 0,
+      "ref": 0,
+      "glo": 0
+    },
+    {
+      "p": {
+        "x": -25.399999618530273,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": 0,
+        "y": 45.00000000000001,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 12,
+        "z": 12
+      },
+      "col": "#ff7300",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 21.399999618530273,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": 0,
+        "y": -45.00000072988328,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 12,
+        "z": 12
+      },
+      "col": "#ff7300",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -25.399999618530273,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": 0,
+        "y": 45.00000000000001,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 12,
+        "z": 12
+      },
+      "col": "#ff7300",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 21.399999618530273,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": 0,
+        "y": -45.00000072988328,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 12,
+        "z": 12
+      },
+      "col": "#ff7300",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -25.399999618530273,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": 0,
+        "y": 45.00000000000001,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 12,
+        "z": 12
+      },
+      "col": "#ff7300",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 21.399999618530273,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": 0,
+        "y": -45.00000072988328,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 12,
+        "z": 12
+      },
+      "col": "#ff7300",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -25.399999618530273,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": 0,
+        "y": 45.00000000000001,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 12,
+        "z": 12
+      },
+      "col": "#ff7300",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 21.5,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": 0,
+        "y": -45.00000072988328,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 12,
+        "z": 12
+      },
+      "col": "#ff7300",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -19.5,
+        "y": -10,
+        "z": -236.5
+      },
+      "r": {
+        "x": 51.89799950015665,
+        "y": 30.000001165885184,
+        "z": -12.695000486992788
+      },
+      "s": {
+        "x": 5.5,
+        "y": 17,
+        "z": 0.5
+      },
+      "col": "#160657",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 29,
+        "y": -10,
+        "z": -236.5
+      },
+      "r": {
+        "x": 51.898000000000025,
+        "y": -30.000000000000018,
+        "z": 12.695000000000013
+      },
+      "s": {
+        "x": 5.5,
+        "y": 17,
+        "z": 0.5
+      },
+      "col": "#160657",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    }
+  ],
+  "ground": [],
+  "box": [
+    {
+      "p": {
+        "x": -16,
+        "y": -11,
+        "z": -227.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmYAXGddW6CdSp95YZV7tYo4sjjsDhqSGZw61kk5KFPKWw",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": -79,
+        "z": -176.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmVGPAuiHkA2y97LCYS5jL481BqvTGYHhL7C5TvMz7yVps",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 25.5,
+        "y": -5.801000118255615,
+        "z": -574
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmXTBWo8ckD5UJmVRry5rCupR1n2B3fqbRfuEdEQhrM5Ng",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 9,
+        "y": -329,
+        "z": -962
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/Qmb32cgcJsJhgBncbhfR3KSTQFiEntXxzhanA3hCczfuUZ",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -504.8009948730469,
+        "z": -557
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmYU7DBvKwFezaV69kLfThRmYkQoU3dtny6fWECQ42tQ8U",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 99.5,
+        "y": -422.82000732421875,
+        "z": -1205.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmUtvVm9xD6tjMajLsWrtrWhhnPhavwa5iHPKWHZugDWKk",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    }
+  ],
+  "image": [
+    {
+      "p": {
+        "x": 13.600000381469727,
+        "y": -4.320000171661377,
+        "z": -251.89999389648438
+      },
+      "r": {
+        "x": 90.00000016978466,
+        "y": -45.00000044529206,
+        "z": -2.401116304864115e-7
+      },
+      "s": {
+        "x": 5.6,
+        "y": 1,
+        "z": 2.5
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmbdvCR1j5GfNYGhPHkph53vWaek1Ndc2S4L7R36k7Vner"
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": 311.2099914550781,
+        "z": 90
+      },
+      "r": {
+        "x": 89.99999774690033,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 12,
+        "y": 1,
+        "z": 8
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmfE1UEG7B9KrctbBh1gCZ3dkD1mRPXk1QyZ8pSaVoYLpt"
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": 311.2099914550781,
+        "z": 90
+      },
+      "r": {
+        "x": 89.99999774690033,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 12,
+        "y": 1,
+        "z": 8
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmfE1UEG7B9KrctbBh1gCZ3dkD1mRPXk1QyZ8pSaVoYLpt"
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": 311.2099914550781,
+        "z": 90
+      },
+      "r": {
+        "x": 89.99999774690033,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 12,
+        "y": 1,
+        "z": 8
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmfE1UEG7B9KrctbBh1gCZ3dkD1mRPXk1QyZ8pSaVoYLpt"
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": 311.2099914550781,
+        "z": 90
+      },
+      "r": {
+        "x": 89.99999774690033,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 12,
+        "y": 1,
+        "z": 8
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmfE1UEG7B9KrctbBh1gCZ3dkD1mRPXk1QyZ8pSaVoYLpt"
+    },
+    {
+      "p": {
+        "x": -5.800000190734863,
+        "y": 311.2099914550781,
+        "z": 90
+      },
+      "r": {
+        "x": 90.00000306884537,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 12,
+        "y": 1,
+        "z": 8
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmPURUAy4LevtCrGneoYu54hKP271Tzc17ApfxPTFWYGFK"
+    },
+    {
+      "p": {
+        "x": -5.800000190734863,
+        "y": 311.2099914550781,
+        "z": 90
+      },
+      "r": {
+        "x": 90.00000306884537,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 12,
+        "y": 1,
+        "z": 8
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmPURUAy4LevtCrGneoYu54hKP271Tzc17ApfxPTFWYGFK"
+    },
+    {
+      "p": {
+        "x": -5.800000190734863,
+        "y": 311.2099914550781,
+        "z": 90
+      },
+      "r": {
+        "x": 90.00000306884537,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 12,
+        "y": 1,
+        "z": 8
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmPURUAy4LevtCrGneoYu54hKP271Tzc17ApfxPTFWYGFK"
+    },
+    {
+      "p": {
+        "x": -5.800000190734863,
+        "y": 311.2099914550781,
+        "z": 90
+      },
+      "r": {
+        "x": 90.00000306884537,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 12,
+        "y": 1,
+        "z": 8
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmPURUAy4LevtCrGneoYu54hKP271Tzc17ApfxPTFWYGFK"
+    },
+    {
+      "p": {
+        "x": 21,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": -89.99999999999987,
+        "y": -44.999999554707934,
+        "z": 179.99999999999986
+      },
+      "s": {
+        "x": 11,
+        "y": 1,
+        "z": 11
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaWn4D51mdhTPbNvkxjYWwCpxV9LWG3FGCnNaQKtD2MCL"
+    },
+    {
+      "p": {
+        "x": 21,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": -89.99999999999987,
+        "y": -44.999999554707934,
+        "z": 179.99999999999986
+      },
+      "s": {
+        "x": 11,
+        "y": 1,
+        "z": 11
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaWn4D51mdhTPbNvkxjYWwCpxV9LWG3FGCnNaQKtD2MCL"
+    },
+    {
+      "p": {
+        "x": 21,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": -89.99999999999987,
+        "y": -44.999999554707934,
+        "z": 179.99999999999986
+      },
+      "s": {
+        "x": 11,
+        "y": 1,
+        "z": 11
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaWn4D51mdhTPbNvkxjYWwCpxV9LWG3FGCnNaQKtD2MCL"
+    },
+    {
+      "p": {
+        "x": 21,
+        "y": 312.2099914550781,
+        "z": 69
+      },
+      "r": {
+        "x": -89.99999999999987,
+        "y": -44.999999554707934,
+        "z": 179.99999999999986
+      },
+      "s": {
+        "x": 11,
+        "y": 1,
+        "z": 11
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmaWn4D51mdhTPbNvkxjYWwCpxV9LWG3FGCnNaQKtD2MCL"
+    },
+    {
+      "p": {
+        "x": -25,
+        "y": 312.2099914550781,
+        "z": 68.5
+      },
+      "r": {
+        "x": -90.00000283231986,
+        "y": 44.999999120132216,
+        "z": 179.9999974195758
+      },
+      "s": {
+        "x": 11,
+        "y": 1,
+        "z": 11
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXwAMZkQNGbUSaes51A5xy8SCvDFubb7yVs81zmvoqmhF"
+    },
+    {
+      "p": {
+        "x": -25,
+        "y": 312.2099914550781,
+        "z": 68.5
+      },
+      "r": {
+        "x": -90.00000283231986,
+        "y": 44.999999120132216,
+        "z": 179.9999974195758
+      },
+      "s": {
+        "x": 11,
+        "y": 1,
+        "z": 11
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXwAMZkQNGbUSaes51A5xy8SCvDFubb7yVs81zmvoqmhF"
+    },
+    {
+      "p": {
+        "x": -25,
+        "y": 312.2099914550781,
+        "z": 68.5
+      },
+      "r": {
+        "x": -90.00000283231986,
+        "y": 44.999999120132216,
+        "z": 179.9999974195758
+      },
+      "s": {
+        "x": 11,
+        "y": 1,
+        "z": 11
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXwAMZkQNGbUSaes51A5xy8SCvDFubb7yVs81zmvoqmhF"
+    },
+    {
+      "p": {
+        "x": -25,
+        "y": 312.2099914550781,
+        "z": 68.5
+      },
+      "r": {
+        "x": -90.00000283231986,
+        "y": 44.999999120132216,
+        "z": 179.9999974195758
+      },
+      "s": {
+        "x": 11,
+        "y": 1,
+        "z": 11
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXwAMZkQNGbUSaes51A5xy8SCvDFubb7yVs81zmvoqmhF"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 296.75,
+        "z": 13.199999809265137
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmQLNuaibUnRoMCuCFXcZH9jFjHktBv2C7eGhfisPJ6cTn"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 296.75,
+        "z": 13.199999809265137
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmQLNuaibUnRoMCuCFXcZH9jFjHktBv2C7eGhfisPJ6cTn"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 296.75,
+        "z": 13.199999809265137
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmQLNuaibUnRoMCuCFXcZH9jFjHktBv2C7eGhfisPJ6cTn"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 296.75,
+        "z": 13.199999809265137
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmQLNuaibUnRoMCuCFXcZH9jFjHktBv2C7eGhfisPJ6cTn"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 294,
+        "z": 1.2300000190734863
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmXZAfdYnsPZnPAm1NDRwqnPJDbfRfFP7vJdsJDQzvDEpV"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 294,
+        "z": 1.2300000190734863
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmXZAfdYnsPZnPAm1NDRwqnPJDbfRfFP7vJdsJDQzvDEpV"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 294,
+        "z": 1.2300000190734863
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmXZAfdYnsPZnPAm1NDRwqnPJDbfRfFP7vJdsJDQzvDEpV"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 294,
+        "z": 1.2300000190734863
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmXZAfdYnsPZnPAm1NDRwqnPJDbfRfFP7vJdsJDQzvDEpV"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 296.75,
+        "z": -1.1699999570846558
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/Qmdfunty8tiJiECxpHb24aUV63JNJrVtVGG8hPHp1FVNph"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 296.75,
+        "z": -1.1699999570846558
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/Qmdfunty8tiJiECxpHb24aUV63JNJrVtVGG8hPHp1FVNph"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 296.75,
+        "z": -1.1699999570846558
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/Qmdfunty8tiJiECxpHb24aUV63JNJrVtVGG8hPHp1FVNph"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 296.75,
+        "z": -1.1699999570846558
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/Qmdfunty8tiJiECxpHb24aUV63JNJrVtVGG8hPHp1FVNph"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 294,
+        "z": 1.2699999809265137
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmXmYoYAdQ3gZbNaLvwMLXbMYBY7aB5jJw3yHbXe7oQYNm"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 294,
+        "z": 1.2699999809265137
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmXmYoYAdQ3gZbNaLvwMLXbMYBY7aB5jJw3yHbXe7oQYNm"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 294,
+        "z": 1.2699999809265137
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmXmYoYAdQ3gZbNaLvwMLXbMYBY7aB5jJw3yHbXe7oQYNm"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 294,
+        "z": 1.2699999809265137
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmXmYoYAdQ3gZbNaLvwMLXbMYBY7aB5jJw3yHbXe7oQYNm"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 294,
+        "z": 10.770000457763672
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXyxe3UtvL8F5MSZT6J3k1FbqesxXe1Eq6AfZFeyruvui"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 294,
+        "z": 10.770000457763672
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXyxe3UtvL8F5MSZT6J3k1FbqesxXe1Eq6AfZFeyruvui"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 294,
+        "z": 10.770000457763672
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXyxe3UtvL8F5MSZT6J3k1FbqesxXe1Eq6AfZFeyruvui"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 294,
+        "z": 10.770000457763672
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmXyxe3UtvL8F5MSZT6J3k1FbqesxXe1Eq6AfZFeyruvui"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 296.75,
+        "z": -1.1699999570846558
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmcWjUCqgTSojvZSLvcfRyqb3ZddoTGR63ymPyg6DWKYq1"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 296.75,
+        "z": -1.1699999570846558
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmcWjUCqgTSojvZSLvcfRyqb3ZddoTGR63ymPyg6DWKYq1"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 296.75,
+        "z": -1.1699999570846558
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmcWjUCqgTSojvZSLvcfRyqb3ZddoTGR63ymPyg6DWKYq1"
+    },
+    {
+      "p": {
+        "x": 13.61299991607666,
+        "y": 296.75,
+        "z": -1.1699999570846558
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmcWjUCqgTSojvZSLvcfRyqb3ZddoTGR63ymPyg6DWKYq1"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 294,
+        "z": 10.84000015258789
+      },
+      "r": {
+        "x": 90.00000024011159,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmNneUbKdTRYpHdMC3NmkxRab7ucd766vweSrrnzLncHPx"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 294,
+        "z": 10.84000015258789
+      },
+      "r": {
+        "x": 90.00000024011159,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmNneUbKdTRYpHdMC3NmkxRab7ucd766vweSrrnzLncHPx"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 294,
+        "z": 10.84000015258789
+      },
+      "r": {
+        "x": 90.00000024011159,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmNneUbKdTRYpHdMC3NmkxRab7ucd766vweSrrnzLncHPx"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 294,
+        "z": 10.84000015258789
+      },
+      "r": {
+        "x": 90.00000024011159,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.38,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmNneUbKdTRYpHdMC3NmkxRab7ucd766vweSrrnzLncHPx"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 296.75,
+        "z": 13.25
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmSx8xJmHJJQ3xC8B3kWhFWYjA4Q1ZuPfzqXe26XHGzyec"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 296.75,
+        "z": 13.25
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmSx8xJmHJJQ3xC8B3kWhFWYjA4Q1ZuPfzqXe26XHGzyec"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 296.75,
+        "z": 13.25
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmSx8xJmHJJQ3xC8B3kWhFWYjA4Q1ZuPfzqXe26XHGzyec"
+    },
+    {
+      "p": {
+        "x": -12.11299991607666,
+        "y": 296.75,
+        "z": 13.25
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.3,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmSx8xJmHJJQ3xC8B3kWhFWYjA4Q1ZuPfzqXe26XHGzyec"
+    }
+  ],
+  "html": [],
+  "video": [
+    {
+      "p": {
+        "x": -7.309999942779541,
+        "y": 295.6099853515625,
+        "z": -7.690000057220459
+      },
+      "r": {
+        "x": 90.00000013862862,
+        "y": 30.000000120055837,
+        "z": 1.8937012114289535e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 4,
+        "z": 4
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmVd2Xzsk3zVwzEkkdQL2KpaKgk3uM2Kz4iG4ktZouyBj1"
+    },
+    {
+      "p": {
+        "x": 8.3100004196167,
+        "y": 295.6099853515625,
+        "z": -7.690000057220459
+      },
+      "r": {
+        "x": 89.99999999999994,
+        "y": -30.000000120055837,
+        "z": -1.200558214162003e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmSvabb3hUDSC9MfSJgPzQtC38Vsp2c3jvxtLP7yhv5GGU"
+    },
+    {
+      "p": {
+        "x": -7.309999942779541,
+        "y": 295.6099853515625,
+        "z": -7.690000057220459
+      },
+      "r": {
+        "x": 90.00000013862862,
+        "y": 30.000000120055837,
+        "z": 1.8937012114289535e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 4,
+        "z": 4
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmVd2Xzsk3zVwzEkkdQL2KpaKgk3uM2Kz4iG4ktZouyBj1"
+    },
+    {
+      "p": {
+        "x": 8.3100004196167,
+        "y": 295.6099853515625,
+        "z": -7.690000057220459
+      },
+      "r": {
+        "x": 89.99999999999994,
+        "y": -30.000000120055837,
+        "z": -1.200558214162003e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmSvabb3hUDSC9MfSJgPzQtC38Vsp2c3jvxtLP7yhv5GGU"
+    },
+    {
+      "p": {
+        "x": -7.309999942779541,
+        "y": 295.6099853515625,
+        "z": -7.690000057220459
+      },
+      "r": {
+        "x": 90.00000013862862,
+        "y": 30.000000120055837,
+        "z": 1.8937012114289535e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 4,
+        "z": 4
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmVd2Xzsk3zVwzEkkdQL2KpaKgk3uM2Kz4iG4ktZouyBj1"
+    },
+    {
+      "p": {
+        "x": 8.3100004196167,
+        "y": 295.6099853515625,
+        "z": -7.690000057220459
+      },
+      "r": {
+        "x": 89.99999999999994,
+        "y": -30.000000120055837,
+        "z": -1.200558214162003e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmSvabb3hUDSC9MfSJgPzQtC38Vsp2c3jvxtLP7yhv5GGU"
+    },
+    {
+      "p": {
+        "x": -7.309999942779541,
+        "y": 295.6099853515625,
+        "z": -7.690000057220459
+      },
+      "r": {
+        "x": 90.00000013862862,
+        "y": 30.000000120055837,
+        "z": 1.8937012114289535e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 4,
+        "z": 4
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmVd2Xzsk3zVwzEkkdQL2KpaKgk3uM2Kz4iG4ktZouyBj1"
+    },
+    {
+      "p": {
+        "x": 8.3100004196167,
+        "y": 295.6099853515625,
+        "z": -7.690000057220459
+      },
+      "r": {
+        "x": 89.99999999999994,
+        "y": -30.000000120055837,
+        "z": -1.200558214162003e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "asset": "https://maroon-secret-duck-83.mypinata.cloud/ipfs/QmSvabb3hUDSC9MfSJgPzQtC38Vsp2c3jvxtLP7yhv5GGU"
+    }
+  ],
+  "youtube": [
+    {
+      "p": {
+        "x": 0.5,
+        "y": 311.2099914550781,
+        "z": 83.66999816894531
+      },
+      "r": {
+        "x": -90.00000007493418,
+        "y": 1.5449607023793023e-7,
+        "z": 179.99999982542536
+      },
+      "s": {
+        "x": 12,
+        "y": 1,
+        "z": 8
+      },
+      "asset": "TFjb9cGQjKE"
+    }
+  ],
+  "audio": [],
+  "water": [
+    {
+      "p": {
+        "x": -39.5,
+        "y": -673.9299926757812,
+        "z": -1448
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 779.5,
+        "y": 1,
+        "z": 479.5
+      },
+      "bum": 0.3,
+      "tile": {
+        "x": 3,
+        "y": 3
+      }
+    }
+  ],
+  "text": [],
+  "collider": [
+    {
+      "p": {
+        "x": 0,
+        "y": 291.5,
+        "z": -6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39.5,
+        "y": 1.5,
+        "z": 39.5
+      }
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 176.5,
+        "z": 149
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 177,
+        "z": 157.75
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 177,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 7
+      }
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 7
+      }
+    },
+    {
+      "p": {
+        "x": -14.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 1
+      }
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 7,
+        "y": 260.5,
+        "z": 10
+      }
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 291.5,
+        "z": -6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39.5,
+        "y": 1.5,
+        "z": 39.5
+      }
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 176.5,
+        "z": 149
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 177,
+        "z": 157.75
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 177,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 7
+      }
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 7
+      }
+    },
+    {
+      "p": {
+        "x": -14.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 1
+      }
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 7,
+        "y": 260.5,
+        "z": 10
+      }
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 291.5,
+        "z": -6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39.5,
+        "y": 1.5,
+        "z": 39.5
+      }
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 176.5,
+        "z": 149
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 177,
+        "z": 157.75
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 177,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 7
+      }
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 7
+      }
+    },
+    {
+      "p": {
+        "x": -14.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 1
+      }
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 7,
+        "y": 260.5,
+        "z": 10
+      }
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 291.5,
+        "z": -6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39.5,
+        "y": 1.5,
+        "z": 39.5
+      }
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 176.5,
+        "z": 149
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 0.5,
+        "y": 177,
+        "z": 157.75
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 39,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": 177,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 0.5
+      }
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 7
+      }
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 7
+      }
+    },
+    {
+      "p": {
+        "x": -14.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 260.5,
+        "z": 1
+      }
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": 176.5,
+        "z": 154
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 7,
+        "y": 260.5,
+        "z": 10
+      }
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": -7.564000129699707,
+        "z": -51
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 75,
+        "y": 2,
+        "z": 311.5
+      }
+    },
+    {
+      "p": {
+        "x": -18,
+        "y": 34.5,
+        "z": 56
+      },
+      "r": {
+        "x": -1.0267981581269445e-7,
+        "y": -1.6447241298728592e-15,
+        "z": -90.00000369462818
+      },
+      "s": {
+        "x": 90,
+        "y": 3,
+        "z": 550
+      }
+    },
+    {
+      "p": {
+        "x": 29.5,
+        "y": 34.5,
+        "z": 56
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 89.99999999999999
+      },
+      "s": {
+        "x": 90,
+        "y": 3,
+        "z": 550
+      }
+    },
+    {
+      "p": {
+        "x": -12,
+        "y": 0,
+        "z": -216.5
+      },
+      "r": {
+        "x": 1.0617280411238627e-7,
+        "y": -6.12988980067164e-8,
+        "z": 29.99999985917837
+      },
+      "s": {
+        "x": -1.5,
+        "y": 17.5,
+        "z": 13
+      }
+    },
+    {
+      "p": {
+        "x": 22.5,
+        "y": 0.5,
+        "z": -216.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": -25.00000000000001
+      },
+      "s": {
+        "x": 1,
+        "y": 17.5,
+        "z": 13
+      }
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -9.567000389099121,
+        "z": -735.5009765625
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 10.5,
+        "y": 1,
+        "z": 130
+      }
+    },
+    {
+      "p": {
+        "x": 1.5,
+        "y": -366.70001220703125,
+        "z": -935.5
+      },
+      "r": {
+        "x": 0,
+        "y": -4.664752095098561e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 919.5,
+        "y": 659.5,
+        "z": 10
+      }
+    },
+    {
+      "p": {
+        "x": 6,
+        "y": -948,
+        "z": -1151
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1009.5,
+        "y": 1009.5,
+        "z": 9.5
+      }
+    },
+    {
+      "p": {
+        "x": -40,
+        "y": -675.2999877929688,
+        "z": -1288.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 68,
+        "y": 5,
+        "z": 234
+      }
+    }
+  ]
+}

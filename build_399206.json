@@ -1,0 +1,185 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": -4.5,
+        "y": 1.100000023841858,
+        "z": -4.5
+      }
+    }
+  ],
+  "model": [
+    {
+      "p": {
+        "x": 0.5974339246749878,
+        "y": -1,
+        "z": 0.7291784882545471
+      },
+      "r": {
+        "x": 180,
+        "y": -59.99999811340895,
+        "z": 180
+      },
+      "s": {
+        "x": 0.04000000000000001,
+        "y": 0.024,
+        "z": 0.04000000000000001
+      },
+      "body": "Static",
+      "asset": "https://bronze-select-clownfish-378.mypinata.cloud/ipfs/bafkreigt3zvjnq5vihjut2gqxxhc77pb66fojevt7s6fom6rao4ns7hcua",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.02
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": -1,
+        "z": 1
+      },
+      "r": {
+        "x": 180,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 0.021999996380524703,
+        "y": 0.021999996380524703,
+        "z": 0.021999996380524703
+      },
+      "body": "Static",
+      "asset": "https://bronze-select-clownfish-378.mypinata.cloud/ipfs/bafkreih2uw4i3qizo5kddqhqwed4txoabclvdphmtapqz6k6eve6jhmrwa",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.009999998354783953
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 4,
+        "z": 0
+      },
+      "r": {
+        "x": 174.999999744194,
+        "y": -29.999999751090005,
+        "z": -179.99999996775952
+      },
+      "s": {
+        "x": 0.07502078256886863,
+        "y": 0.07502078256886863,
+        "z": 0.07502078256886863
+      },
+      "body": "Static",
+      "asset": "https://bronze-select-clownfish-378.mypinata.cloud/ipfs/bafkreibqlfivav7k2uacdps4ug6gsc7hbzsu7h2ksdcvbsuucff7edxb2u",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.019742311202333843
+    },
+    {
+      "p": {
+        "x": 10,
+        "y": -1,
+        "z": 0
+      },
+      "r": {
+        "x": 180,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 0.023999995687946023,
+        "y": 0.023999995687946023,
+        "z": 0.023999995687946023
+      },
+      "body": "Static",
+      "asset": "https://bronze-select-clownfish-378.mypinata.cloud/ipfs/bafkreiceu6hiskm4to7g5aho5ia6gtjdrndkw5rrnupjxjrcd57tfbjsgm",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.009999998203310845
+    },
+    {
+      "p": {
+        "x": -14.5,
+        "y": 1.5,
+        "z": 6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": -15.000000396015338
+      },
+      "s": {
+        "x": 10.489757185750303,
+        "y": 10.489757185750303,
+        "z": 10.489757185750303
+      },
+      "body": "Static",
+      "asset": "https://bronze-select-clownfish-378.mypinata.cloud/ipfs/bafybeia6fxdbz6mad63p4emogk3m6pz7cuw6vn6my73szkjfe23okgqd3m",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.7059055979643556
+    },
+    {
+      "p": {
+        "x": 28,
+        "y": 0,
+        "z": -7.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 1.0059280532933357,
+        "y": 1.0059280532933357,
+        "z": 1.0059280532933357
+      },
+      "body": "Static",
+      "asset": "https://bronze-select-clownfish-378.mypinata.cloud/ipfs/bafkreigjaqflwacfhdukcuqeibtlzpojfbqjyhk67wjptn5r2ieblarlwm",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.05132285986190497
+    }
+  ],
+  "solidground": [
+    {
+      "p": {
+        "x": -2.5,
+        "y": -1,
+        "z": -1
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 1,
+        "z": 10
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    }
+  ],
+  "solidbox": [],
+  "ground": [],
+  "box": [],
+  "image": [],
+  "html": [],
+  "video": [],
+  "youtube": [],
+  "audio": [],
+  "water": [],
+  "text": [],
+  "collider": []
+}

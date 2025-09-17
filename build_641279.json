@@ -1,0 +1,2203 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": 10.04699993133545,
+        "y": 10,
+        "z": 2.806999921798706
+      }
+    }
+  ],
+  "model": [
+    {
+      "p": {
+        "x": 22.5,
+        "y": 1.5,
+        "z": -5.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 6.637524486649771,
+        "y": 6.637524486649771,
+        "z": 6.637524486649771
+      },
+      "body": "Static",
+      "market": "me",
+      "asset": "https://ordinals.com/content/171c26e24b94e11fc8dfae620173179ff43fa41674685721464ca28d658ed138i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 3.318762243324886
+    },
+    {
+      "p": {
+        "x": -3,
+        "y": 1.7999999523162842,
+        "z": -40
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.3898137641286747,
+        "y": 0.3898137641286747,
+        "z": 0.3898137641286747
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/b91084dd15d7df4e15fe83f866c2421686c53105ceb81ce9acf034526c63b0c4i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.3898137641286747
+    },
+    {
+      "p": {
+        "x": 10,
+        "y": 0,
+        "z": -4
+      },
+      "r": {
+        "x": 0,
+        "y": 60.000009325726346,
+        "z": 0
+      },
+      "s": {
+        "x": 0.37837837350203063,
+        "y": 0.37837837350203063,
+        "z": 0.37837837350203063
+      },
+      "body": "Static",
+      "market": "me",
+      "asset": "https://ordinals.com/content/2fde72ded6530ff1c0c2e3dccc9f137ba9c5f456c22055294d71784996f501dai0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.2702702667871647
+    },
+    {
+      "p": {
+        "x": 4,
+        "y": 0,
+        "z": -4
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.20593439992489274,
+        "y": 0.20593439992489274,
+        "z": 0.20593439992489274
+      },
+      "body": "Static",
+      "market": "me",
+      "asset": "https://ordinals.com/content/b861ab8f7e00dc94057f2c6e8d4a33f2ec93d1acfa13aacacfed6b5fe2693b2bi0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.14709599994635195
+    },
+    {
+      "p": {
+        "x": -13,
+        "y": 0,
+        "z": 7
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 1.8181814889970094,
+        "y": 1.8181814889970094,
+        "z": 1.8181814889970094
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/66527bf3ca43a43b6e1511d5d47d5a9e91dd4e2f1048c94ba9ee0777aa7fa2b6i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.8181814889970094
+    },
+    {
+      "p": {
+        "x": -11,
+        "y": 1,
+        "z": -5.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.8434296091744492,
+        "y": 0.8434296091744492,
+        "z": 0.8434296091744492
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/48098a534143952617213056caa6a0c64b4754149142dcbc6250ff6445f107f7i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.7028580076453743
+    },
+    {
+      "p": {
+        "x": -17,
+        "y": 0,
+        "z": -7
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.012847505590061415,
+        "y": 0.012847505590061415,
+        "z": 0.012847505590061415
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/5e0f71cff2533354bd1b363f50100f8fc87c99360195b85353c30afcb405e4bbi0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.010706254658384512
+    },
+    {
+      "p": {
+        "x": -11.5,
+        "y": 0,
+        "z": 20.5
+      },
+      "r": {
+        "x": 0,
+        "y": 5.097855636765855e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 2.132797046414902,
+        "y": 2.132797046414902,
+        "z": 2.132797046414902
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/2332e344525cdc380039b5d760e33a5f8104631cdeeb9047a340cad1fc7a7895i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.2734355187711415
+    },
+    {
+      "p": {
+        "x": 27.5,
+        "y": 0,
+        "z": 26
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 9.317475436232588,
+        "y": 9.317475436232588,
+        "z": 9.317475436232588
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/d2a674751c24003e196b7a70ce4d5427a544bb84faca6e3536f4ee665b5da616i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 7.764562863527157
+    },
+    {
+      "p": {
+        "x": -11.5,
+        "y": -8,
+        "z": -142
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": -50,
+        "y": 0,
+        "z": -200
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "body": "Static",
+      "market": "me",
+      "asset": "https://ordinals.com/content/354c773f197afdb7c78dbef6a77fe6321c73a0ab4ff0e90cb2cdd28f79668c13i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.023312779266401597
+    },
+    {
+      "p": {
+        "x": 23.5,
+        "y": 4,
+        "z": -175.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/2295ed920a400624ab5fb75c3b1b08c3d852149ccaf5ef0b4881b39b9706fa43i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.4939676522367033
+    },
+    {
+      "p": {
+        "x": 20,
+        "y": 0,
+        "z": -100
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/f02506be77ab13b40b8f987e5a24a4a67d952287f22d2aeb53f3a07a53cdccb4i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.042108663479544284
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 0,
+        "z": -50
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/f6d0118e790bb0d53e8f48eb54ff4d9991cd2065ae4497abf1f5cdec3c3d6870i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.0106959983411714
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.9445598915947172,
+        "y": 0.9445598915947172,
+        "z": 0.9445598915947172
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/c1fbbaf1812151227cf5aee3473ec4bc26abd16182d3f4b516c1e7ac6ed0dd66i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.9445598915947172
+    },
+    {
+      "p": {
+        "x": -8.35099983215332,
+        "y": 38,
+        "z": -341.052001953125
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5,
+        "y": 5,
+        "z": 5
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/a975494b5a9bf7391d77f656f0dd02fd2adea90b530b5afc6fb338ef90c2ebf1i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.060747915242729274
+    },
+    {
+      "p": {
+        "x": -5,
+        "y": 1.7999999523162842,
+        "z": -39
+      },
+      "r": {
+        "x": -29.999999999999993,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.6631229644872295,
+        "y": 0.6631229644872295,
+        "z": 0.6631229644872295
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/a1ad7928e8effd0032c08e9b67b73d9683d9f1b6220838e8cf1430dec87063e6i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.6631229644872295
+    },
+    {
+      "p": {
+        "x": 22.5,
+        "y": -6,
+        "z": 134.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 6,
+        "y": 6,
+        "z": 6
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/e4f5f9ff44b15f7ee9f4af3949ed844bbd8d8754b94359241c9646d2dbe94b7di0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.17676368015940577
+    }
+  ],
+  "solidground": [
+    {
+      "p": {
+        "x": -3,
+        "y": 0,
+        "z": 4.5
+      },
+      "r": {
+        "x": -180,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 100,
+        "y": 100,
+        "z": 1000
+      },
+      "col": "#1ed469",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 200,
+        "y": 1000,
+        "z": 10000
+      },
+      "col": "#20cc2b",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    }
+  ],
+  "solidbox": [
+    {
+      "p": {
+        "x": -24,
+        "y": 3,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.5,
+        "y": 6,
+        "z": 53
+      },
+      "col": "#c3c4ba",
+      "met": 0.3,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 3,
+        "z": 35
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 59,
+        "y": 6,
+        "z": 1.5
+      },
+      "col": "#ffffff",
+      "met": 0.4,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 35,
+        "y": 3,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 89.99999999999999
+      },
+      "s": {
+        "x": 6,
+        "y": 1.5,
+        "z": 53
+      },
+      "col": "#FFFFFF",
+      "met": 0.4,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 3,
+        "z": -17
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 59,
+        "y": 6,
+        "z": 1.5
+      },
+      "col": "#FFFFFF",
+      "met": 0.6,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -24,
+        "y": 6,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0,
+        "y": 8.5,
+        "z": 53
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 6,
+        "z": 35
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 59,
+        "y": 8.5,
+        "z": 0
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 6,
+        "z": -17
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 59,
+        "y": 8.5,
+        "z": 0
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 35,
+        "y": 6,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0,
+        "y": 8.5,
+        "z": 53
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 100,
+        "z": -500
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 100,
+        "y": 200,
+        "z": 1
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": 8,
+        "z": 34
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 29.999999999999993
+      },
+      "s": {
+        "x": 0.1,
+        "y": 2,
+        "z": 1
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 100,
+        "z": 501
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 100,
+        "y": 200,
+        "z": 1
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 3,
+        "z": -350
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 6,
+        "z": 120
+      },
+      "col": "#c3c4ba",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 3,
+        "z": -380.5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.5,
+        "y": 6,
+        "z": 90
+      },
+      "col": "#c3c4ba",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    }
+  ],
+  "ground": [],
+  "box": [
+    {
+      "p": {
+        "x": 13.5,
+        "y": 3,
+        "z": 20
+      },
+      "r": {
+        "x": 30.00000000000003,
+        "y": 30.000000000000018,
+        "z": 30.000000000000018
+      },
+      "s": {
+        "x": 6,
+        "y": 6,
+        "z": 6
+      },
+      "asset": "https://ordinals.com/content/4a9e52303119e70ef20f375885dac7a667b53532509a7f88adbaa80d124c119ai0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": 2,
+        "z": 12
+      },
+      "r": {
+        "x": 9.999999999999998,
+        "y": 30.00000000000003,
+        "z": 9.999999999999998
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "asset": "https://ordinals.com/content/915ac08ccdab46afc5677a69d9b347592c81d60e1384cdf4acbf51c2d0d98b5ai0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 9.5,
+        "y": 3.5,
+        "z": 14.5
+      },
+      "r": {
+        "x": 45,
+        "y": 44.999999999999986,
+        "z": 2.024092604877725e-14
+      },
+      "s": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      },
+      "asset": "https://ordinals.com/content/4ff2fb78eeabdd35c13739b76fb1bf5e64035695092e084d8c6c230912f3bb83i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": -1,
+        "y": 1,
+        "z": 11
+      },
+      "r": {
+        "x": -19.999999999999996,
+        "y": -10.000000000000002,
+        "z": 9.999999999999998
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "asset": "https://ordinals.com/content/51835fd11a6508ace94a0c25b5239e4bdd1affff05aa14ac1c00f766d148aa25i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": -3.5,
+        "y": 0.5,
+        "z": 10
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "asset": "https://ordinals.com/content/25ca6ea886ebca414e14f08cfb6fea54c34b39fed36acd6747e6054954750025i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 19,
+        "y": 5,
+        "z": 27
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/845bcfb0-4bd8-429a-b4a2-7e168f54ac45.jpeg",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    }
+  ],
+  "image": [
+    {
+      "p": {
+        "x": -23,
+        "y": 3,
+        "z": 22
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://ordinals.com/content/4ff2fb78eeabdd35c13739b76fb1bf5e64035695092e084d8c6c230912f3bb83i0"
+    },
+    {
+      "p": {
+        "x": 18,
+        "y": 1,
+        "z": -18.5
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.5,
+        "y": 1,
+        "z": 4.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/5e1fa1b2-d904-40f6-9be0-6cf9e11459c6.gif"
+    },
+    {
+      "p": {
+        "x": -19,
+        "y": 3,
+        "z": 34
+      },
+      "r": {
+        "x": -90.00000000000009,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 5.5,
+        "y": 1,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/9e56fde1-efdc-4ba7-ab2d-7e94b9e405e7.jpg"
+    },
+    {
+      "p": {
+        "x": 34,
+        "y": 3,
+        "z": -4
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 1,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/516ab2b2-4326-4b2e-ab94-00e1d6f09eab.jpg"
+    },
+    {
+      "p": {
+        "x": 21,
+        "y": 3,
+        "z": 34
+      },
+      "r": {
+        "x": -90.00000000000009,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-4DU2lFTpMEUCVmW7eiQLDvbnKsJcvA.jpg"
+    },
+    {
+      "p": {
+        "x": -3,
+        "y": 3,
+        "z": 34
+      },
+      "r": {
+        "x": -90.00000000000009,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 6,
+        "y": 1,
+        "z": 6
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/5b0eba78-3fe2-44af-acb1-56e33b4695b3.jpg"
+    },
+    {
+      "p": {
+        "x": -23,
+        "y": 3,
+        "z": 6
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/9510a18b-c5f1-443a-a956-6f40428ea7cb.png"
+    },
+    {
+      "p": {
+        "x": -23,
+        "y": 3,
+        "z": -10
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/ac2000e3-0c0d-471d-ab34-e052a9c80212.jpg"
+    },
+    {
+      "p": {
+        "x": 34,
+        "y": 3,
+        "z": 4
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/b055f18f-5fa1-490f-9b86-8e91075e24bc.jpg"
+    },
+    {
+      "p": {
+        "x": 34,
+        "y": 3,
+        "z": -12
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 1,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/c9c81c27-3f4a-4219-ac98-2e630be640fd.png"
+    },
+    {
+      "p": {
+        "x": 21,
+        "y": 3,
+        "z": -16
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 1,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-kqopCeHIjN85dxyu7IF8GbyvppDk3N.jpg"
+    },
+    {
+      "p": {
+        "x": -11,
+        "y": 3,
+        "z": 34
+      },
+      "r": {
+        "x": -90.00000000000009,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/1ef3b0d2-a7d7-4991-90bc-f31d0b8b760a.jpg"
+    },
+    {
+      "p": {
+        "x": 21,
+        "y": 3,
+        "z": 34
+      },
+      "r": {
+        "x": -90.00000000000009,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/54ba14f7-0d0f-47d4-809c-6e94faec400a.jpg"
+    },
+    {
+      "p": {
+        "x": 29,
+        "y": 3,
+        "z": 34
+      },
+      "r": {
+        "x": -90.00000000000009,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/a8ecec62-932b-4909-8eae-5ac307ecb8e9.jpg"
+    },
+    {
+      "p": {
+        "x": 34,
+        "y": 3,
+        "z": 12
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/a382ea05-d666-403b-8308-0f334ec7928b.jpg"
+    },
+    {
+      "p": {
+        "x": -23,
+        "y": 3,
+        "z": 30
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/18232d01-8580-46f2-bf2f-c03b19fa8373.jpg"
+    },
+    {
+      "p": {
+        "x": 29,
+        "y": 3,
+        "z": -16
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 12,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/111e182e-54b4-406b-8350-f62e48d8ae11-LWTLvGTMbzpwqzPRo0JaJ34XYnYvyL.jpg"
+    },
+    {
+      "p": {
+        "x": 13,
+        "y": 3,
+        "z": -16
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 1,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/f3448458-a3fe-4a1c-a541-740852474d9a.png"
+    },
+    {
+      "p": {
+        "x": -3,
+        "y": 3,
+        "z": -16
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 1,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/86ee01d5-5a2e-4d30-8795-a018d6dc5721.jpg"
+    },
+    {
+      "p": {
+        "x": -11,
+        "y": 3,
+        "z": -16
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 1,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-PQpt2FgCP8o8zY0GEoblH952oPyqxM.jpg"
+    },
+    {
+      "p": {
+        "x": 13,
+        "y": 3,
+        "z": 34
+      },
+      "r": {
+        "x": -90.00000000000009,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/712ac288-cad1-4784-9423-87d565d211fe.jpg"
+    },
+    {
+      "p": {
+        "x": 34,
+        "y": 3,
+        "z": 20
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/67c66eb2-a509-4926-ac6e-eed2986e59d7.jpg"
+    },
+    {
+      "p": {
+        "x": -23,
+        "y": 3,
+        "z": -2
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/a6e92dfc-1a00-4c25-8ea8-d0c4aa4d0f2a.jpg"
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 1,
+        "z": 500
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-Q3KuA0UeY28gwoSkISWcJ0DTlXkyUF.jpg"
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 200,
+        "z": 498
+      },
+      "r": {
+        "x": -90.00000000000006,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 100,
+        "y": 200,
+        "z": 100
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-Q3KuA0UeY28gwoSkISWcJ0DTlXkyUF.jpg"
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 200,
+        "z": -498
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 100,
+        "y": 1,
+        "z": 100
+      },
+      "market": "me",
+      "asset": "https://ordinals.com/content/27591d1c3963b4ae04860785127a6331437bb5d7dc47d7cbd534c9fc651a5422i0"
+    },
+    {
+      "p": {
+        "x": 5,
+        "y": 3,
+        "z": 34
+      },
+      "r": {
+        "x": -90.00000000000009,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/e244b554-18e0-434f-b1ab-a03a32856c13.jpg"
+    },
+    {
+      "p": {
+        "x": 34,
+        "y": 3,
+        "z": 28
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/764e468e-9f9e-44af-a638-440012f49252.jpg"
+    },
+    {
+      "p": {
+        "x": -19,
+        "y": 3,
+        "z": -16
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 1,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/561a642f-6346-4d82-9462-c25defd17094.jpg"
+    },
+    {
+      "p": {
+        "x": -23,
+        "y": 3,
+        "z": 14
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/41300fa2-985e-43ce-8db3-6fc47628ce49.JPEG"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 3,
+        "z": -310
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-Q3KuA0UeY28gwoSkISWcJ0DTlXkyUF.jpg"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 3,
+        "z": -330
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-WkOh00a7IJILJIy7hkl4adFZQR22P0.jpg"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 3,
+        "z": -370
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-6OQNWnpvgJCoNa6m9ilNCHuvcoU2Td.jpg"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 3,
+        "z": -350
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-7XWmRJ1wNre81zlKgaX0TYwVqBDM4O.jpg"
+    },
+    {
+      "p": {
+        "x": 23,
+        "y": 3,
+        "z": -380
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 5.5,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-XuYk7VgjslQMDJnSGRuhKbkSdvYiF5.jpg"
+    },
+    {
+      "p": {
+        "x": 43,
+        "y": 3,
+        "z": -380
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 8,
+        "y": 5.5,
+        "z": 5.5
+      },
+      "asset": "https://oqo47j6pxmwuqzov.public.blob.vercel-storage.com/the-louvre/magic-meme-ykbHrgJpf2ec6YwkMo0ltHl6fxDH1O.jpg"
+    }
+  ],
+  "html": [
+    {
+      "p": {
+        "x": -8,
+        "y": 2,
+        "z": -67.5
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4,
+        "y": 1,
+        "z": 4
+      },
+      "asset": "https://ordinals.com/content/6297a0a719b06960ab722ecbf0c573f14a5960d75963d5fa36e62f5dbec3a894i0"
+    },
+    {
+      "p": {
+        "x": 46,
+        "y": 2,
+        "z": -49.5
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4,
+        "y": 1,
+        "z": 4
+      },
+      "asset": "https://ordinals.com/content/e1b1e0fa62eee9beca11b3c287cccf1f37600bcf8d69dbc43cd369260a598778i0"
+    },
+    {
+      "p": {
+        "x": 24,
+        "y": 1,
+        "z": -52.5
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 2
+      },
+      "asset": "https://ordinals.com/content/df4bff6044af13d74582b4e54199cb65b81edb095fddc9263df7bd06fcc98223i0"
+    }
+  ],
+  "video": [],
+  "youtube": [
+    {
+      "p": {
+        "x": 5,
+        "y": 3,
+        "z": -16
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 6,
+        "y": 1,
+        "z": 6
+      },
+      "asset": "https://www.youtube.com/watch?v=BR-BWeFn9cw&t=85s"
+    }
+  ],
+  "audio": [],
+  "water": [
+    {
+      "p": {
+        "x": -48,
+        "y": 0.05000000074505806,
+        "z": -152
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 50,
+        "y": 50,
+        "z": 150
+      },
+      "bum": 0.18,
+      "tile": {
+        "x": 3,
+        "y": 3
+      }
+    }
+  ],
+  "text": [
+    {
+      "p": {
+        "x": 5.5,
+        "y": 8,
+        "z": -16.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Welcome to Bitcoin wizards, no one can escape from here",
+      "font": "Pixel",
+      "size": 0.9,
+      "col": "#1a1919"
+    },
+    {
+      "p": {
+        "x": -23,
+        "y": 8,
+        "z": 7
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "Welcome to Bitcoin wizards Asylum",
+      "font": "Pixel",
+      "size": 0.9,
+      "col": "#1a1919"
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": 8,
+        "z": 34.5
+      },
+      "r": {
+        "x": 180,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "txt": "Welcome to Bitcoin wizards Asylum, no one can escape from here",
+      "font": "Pixel",
+      "size": 0.9,
+      "col": "#0f0f0f"
+    },
+    {
+      "p": {
+        "x": 34.5,
+        "y": 8,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "txt": "Welcome to Bitcoin wizards Asylum",
+      "font": "Pixel",
+      "size": 0.9,
+      "col": "#0d0c0c"
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 3.5,
+        "z": -350
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Hello, world!",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#ffffff"
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 3,
+        "z": -350
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Hello, world!",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#ffffff"
+    },
+    {
+      "p": {
+        "x": 5.5,
+        "y": 3,
+        "z": -350
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Hello, world!",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#ffffff"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 3,
+        "z": -300
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "which is the most famous ads in bitcoin",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#141414"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 4,
+        "z": -300
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "Bitcoin wizard is designed by Mavenbot,",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 2,
+        "z": -300
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "history",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#141414"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 5,
+        "z": -340
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "In this discussion,",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 4,
+        "z": -320
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "the Bitcoin community on Reddit ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 3,
+        "z": -320
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": " wanted to promote Bitcoin positively ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 2,
+        "z": -320
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "and posted a post soliciting creative",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 1,
+        "z": -320
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": " ideas for advertising.",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 5,
+        "z": -320
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "In February 2013, ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 3,
+        "z": -340
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "wizard with Magic Internet Money  ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 1,
+        "z": -340
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "which received the most recognition.",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 5,
+        "z": -360
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "Bitcoin Wizard became one of ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 2,
+        "z": -340
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "written on it, called bitcoin wizard",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 3,
+        "z": -360
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "and the famous animation \"South Park\"  ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 2,
+        "z": -360
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "paid tribute to Bitcoin Wizard.",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 4,
+        "z": -360
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "Reddits most successful advertisements",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 5.900000095367432,
+        "y": 4,
+        "z": -340
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "txt": "mavensbot submitted a portrait of a ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 33,
+        "y": 4,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "the loudest slogan of Bitcoin",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 13.001999855041504,
+        "y": 5,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Bitcoin Wizard uses magic to make ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 13.001999855041504,
+        "y": 4,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Bitcoin interesting. Many people learn ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 13.001999855041504,
+        "y": 3,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "about BTC because of the Wizard. For",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 13.001999855041504,
+        "y": 2,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "example, the founder of Dogecoin was",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 13.001999855041504,
+        "y": 1,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "inspired by Wizard to create Dogecoin.",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 33,
+        "y": 5,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Now Magic Internet Money has becomen. ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 33,
+        "y": 3,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Many BTC dev call themselves wizards. ",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": 33,
+        "y": 2,
+        "z": -380
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Bitcoin wizard is the most OG meme.",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#0a0a0a"
+    },
+    {
+      "p": {
+        "x": -10,
+        "y": 22,
+        "z": -250
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "Bitcoin Wizards school",
+      "font": "Pixel",
+      "size": 2.3,
+      "col": "#ffffff"
+    }
+  ],
+  "collider": []
+}

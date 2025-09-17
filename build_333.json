@@ -1,0 +1,63 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": -4.5,
+        "y": 1.100000023841858,
+        "z": -4.5
+      }
+    }
+  ],
+  "model": [],
+  "solidground": [
+    {
+      "p": {
+        "x": 1.1381864547729492,
+        "y": 0,
+        "z": -1.0677136182785034
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1000,
+        "y": 1000,
+        "z": 1000
+      },
+      "col": "#1a5405",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    }
+  ],
+  "solidbox": [],
+  "ground": [],
+  "box": [],
+  "image": [],
+  "html": [],
+  "video": [],
+  "youtube": [],
+  "audio": [],
+  "water": [],
+  "text": [
+    {
+      "p": {
+        "x": -4.672999858856201,
+        "y": 3,
+        "z": 3.5309998989105225
+      },
+      "r": {
+        "x": 180,
+        "y": -45.00000000000001,
+        "z": 180
+      },
+      "txt": "Welcome to VERSE HQ & Music Festival Grounds! Soon it will look like Woodstock 69 out here!",
+      "font": "Roboto",
+      "size": 0.9,
+      "col": "#ed7d05"
+    }
+  ],
+  "collider": []
+}

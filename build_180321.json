@@ -1,0 +1,73 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": 30.5,
+        "y": 3.5999999046325684,
+        "z": -17.5
+      }
+    }
+  ],
+  "model": [
+    {
+      "p": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 50,
+        "y": 1,
+        "z": 50
+      },
+      "body": "Static",
+      "market": "me",
+      "asset": "https://ordinals.com/content/4bfdb2c1d3633edf545b945d88714cfd48f31a8944cd55f2b9407d15f33968cfi0",
+      "met": 1,
+      "ref": 0.1,
+      "glo": 0,
+      "sf": 0.6535947833238884
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 80,
+        "y": 0.5,
+        "z": 80
+      },
+      "body": "Static",
+      "market": "me",
+      "asset": "https://ordinals.com/content/5bc7bb0440a98256269ed1d818a48116d88f739dd7b409f6db26199b93b15d2fi0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 2.353110362961688
+    }
+  ],
+  "solidground": [],
+  "solidbox": [],
+  "ground": [],
+  "box": [],
+  "image": [],
+  "html": [],
+  "video": [],
+  "youtube": [],
+  "audio": [],
+  "water": [],
+  "text": [],
+  "collider": []
+}

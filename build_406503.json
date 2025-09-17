@@ -1,0 +1,5599 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": -36.5,
+        "y": -21.44976043701172,
+        "z": 43
+      }
+    }
+  ],
+  "model": [
+    {
+      "p": {
+        "x": 0,
+        "y": 51,
+        "z": 0
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 4.3391167183349415,
+        "y": 4.3391167183349415,
+        "z": 4.3391167183349415
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/2ab9c03109114de3b27a277392a082f39df718937170fa52a6a68c0a5ef7c078i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.8344455227567197
+    },
+    {
+      "p": {
+        "x": 0,
+        "y": 51,
+        "z": -10.5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 4.3391167183349415,
+        "y": 4.3391167183349415,
+        "z": 4.3391167183349415
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/2ab9c03109114de3b27a277392a082f39df718937170fa52a6a68c0a5ef7c078i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.8344455227567197
+    },
+    {
+      "p": {
+        "x": -11.5,
+        "y": 51,
+        "z": -10.5
+      },
+      "r": {
+        "x": 0.000002284921605626264,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 4.3391167183349415,
+        "y": 4.3391167183349415,
+        "z": 4.3391167183349415
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/2ab9c03109114de3b27a277392a082f39df718937170fa52a6a68c0a5ef7c078i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.8344455227567197
+    },
+    {
+      "p": {
+        "x": -11.5,
+        "y": 51,
+        "z": 0.5
+      },
+      "r": {
+        "x": 0.000002284921605626264,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 4.3391167183349415,
+        "y": 4.3391167183349415,
+        "z": 4.3391167183349415
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/2ab9c03109114de3b27a277392a082f39df718937170fa52a6a68c0a5ef7c078i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.8344455227567197
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 33.5,
+        "z": 3
+      },
+      "r": {
+        "x": -1.1644789924734894e-8,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.2624166960031118,
+        "y": 0.2624166960031118,
+        "z": 0.7747540548663299
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6893058f182029c925270bcc25e66184eaa79dcea9a87516e6cce4bf333a7da0i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06248016571502663
+    },
+    {
+      "p": {
+        "x": -14.5,
+        "y": 32.5,
+        "z": -4.5
+      },
+      "r": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.3249999559100528,
+        "y": 0.3249999559100528,
+        "z": 0.3249999559100528
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/38d1b72e169b17e0152ebb470cf95df6c4eb29f72af3dabcc3b0f781c71fb278i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06249999152116399
+    },
+    {
+      "p": {
+        "x": -154.5,
+        "y": 198,
+        "z": 161
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": -30.000003272291533
+      },
+      "s": {
+        "x": 38.399264178512645,
+        "y": 38.399264178512645,
+        "z": 38.399264178512645
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/efd37b983188652665101d876cbe89b5c5e9eeb6e53d4f0d4a469a8120b0cd4ei0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.6689767278486556
+    },
+    {
+      "p": {
+        "x": 249.5,
+        "y": -34.5,
+        "z": 542.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 12.182032785348055,
+        "y": 12.182032785348055,
+        "z": 12.182032785348055
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/bc4b610941c8f0aba75a7962ff166cd112501163f3f8938182da8c045e59993bi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.14606753939266284
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 70,
+        "z": -2.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.6326889215812389,
+        "y": 0.5623901525166568,
+        "z": 0.6326889215812389
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/adc4b045f0235f7974be954ecac46734c677d54118e658d513fd2c1acb75c45ai3",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.3514938453229105
+    },
+    {
+      "p": {
+        "x": -3.5,
+        "y": 70,
+        "z": -5
+      },
+      "r": {
+        "x": 7.970869668325602e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.3514938453229105,
+        "y": 0.3514938453229105,
+        "z": 0.3514938453229105
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/adc4b045f0235f7974be954ecac46734c677d54118e658d513fd2c1acb75c45ai2",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.3514938453229105
+    },
+    {
+      "p": {
+        "x": -5,
+        "y": -2,
+        "z": -23
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 8.367612,
+        "y": 1.367612,
+        "z": 8.367612
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/e331b0a39f02c5d66b49511e6851deff62718a5473f75298b944edeced7a229ei0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.3676124439452944
+    },
+    {
+      "p": {
+        "x": -4.5,
+        "y": 64.5,
+        "z": -2.5
+      },
+      "r": {
+        "x": 0.000001420992520370465,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 2.7,
+        "z": 2.6
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": 67.69999694824219,
+        "z": -6.900000095367432
+      },
+      "r": {
+        "x": 0,
+        "y": 6.641976672543576e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 1.1,
+        "y": 3.2,
+        "z": 2.6
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -6.939999580383301,
+        "y": 72.44499969482422,
+        "z": -3
+      },
+      "r": {
+        "x": 2.7874020250865706e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 1.5,
+        "y": 4.8,
+        "z": 2.3
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -4.800000190734863,
+        "y": 75.58999633789062,
+        "z": -5
+      },
+      "r": {
+        "x": -179.99999988430787,
+        "y": -1.7893836567892283e-7,
+        "z": 180
+      },
+      "s": {
+        "x": 1,
+        "y": 3,
+        "z": 2.6
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 114,
+        "y": -31.5,
+        "z": -33.5
+      },
+      "r": {
+        "x": 179.9999998799441,
+        "y": -3.303864493500641e-8,
+        "z": -179.999998548611
+      },
+      "s": {
+        "x": 39.999999999999964,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 24.5,
+        "y": -31.5,
+        "z": 114.5
+      },
+      "r": {
+        "x": -0.0000013313330540368177,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 39.999999999999964,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -126,
+        "y": -31.5,
+        "z": 27.5
+      },
+      "r": {
+        "x": 1.2005591657499734e-7,
+        "y": -6.267069886060645e-7,
+        "z": 0.000001451388976101877
+      },
+      "s": {
+        "x": 39.999999999999964,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -36.5,
+        "y": -31.5,
+        "z": -123.5
+      },
+      "r": {
+        "x": 0.0000015714451102058204,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 39.999999999999964,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 18,
+        "z": -19
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 17,
+        "z": -15
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 16,
+        "z": -11
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 15,
+        "z": -7
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 14,
+        "z": -3
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 13,
+        "z": 1
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 12,
+        "z": 5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 6,
+        "z": -19
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 5,
+        "z": -15
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 4,
+        "z": -11
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 3,
+        "z": -7
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 1,
+        "z": 1
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 2,
+        "z": -3
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 0,
+        "z": 5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": -1,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": -2,
+        "z": 13
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -18.5,
+        "z": 19.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 19.5,
+        "y": -19,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -20,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 11.5,
+        "y": -21,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": -22,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": -23,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -0.5,
+        "y": -24,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -4.5,
+        "y": -25,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -8.5,
+        "y": -26,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -12.5,
+        "y": -27,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -16.5,
+        "y": -28,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20.5,
+        "y": -29,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -24.5,
+        "y": -30,
+        "z": 15.5
+      },
+      "r": {
+        "x": 1.200558796566968e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": 31.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 1.5,
+        "y": 33.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -0.5,
+        "y": 35.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -2.5,
+        "y": 37.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -4.5,
+        "y": 39.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -6.5,
+        "y": 41.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -8.5,
+        "y": 43.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -10.5,
+        "y": 45.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -12.5,
+        "y": 47.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -14.5,
+        "y": 49.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -16.5,
+        "y": 51.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -1.200557492151732e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -8,
+        "y": 53,
+        "z": -9.5
+      },
+      "r": {
+        "x": -179.99999987994414,
+        "y": -1.2005586621379137e-7,
+        "z": -179.99999987994417
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -8,
+        "y": 55,
+        "z": -7.5
+      },
+      "r": {
+        "x": -179.99999987994414,
+        "y": -1.2005586621379137e-7,
+        "z": -179.99999987994417
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -8,
+        "y": 57,
+        "z": -5.5
+      },
+      "r": {
+        "x": -179.99999987994414,
+        "y": -1.2005586621379137e-7,
+        "z": -179.99999987994417
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -8,
+        "y": 59,
+        "z": -3.5
+      },
+      "r": {
+        "x": -179.99999987994414,
+        "y": -1.2005586621379137e-7,
+        "z": -179.99999987994417
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -8,
+        "y": 61,
+        "z": -1.5
+      },
+      "r": {
+        "x": -179.99999987994414,
+        "y": -1.2005586621379137e-7,
+        "z": -179.99999987994417
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -5.800000190734863,
+        "y": 77.58999633789062,
+        "z": -4.800000190734863
+      },
+      "r": {
+        "x": 2.185581703920793e-7,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.4,
+        "y": 2.2,
+        "z": 1.8000000000000003
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -17.5,
+        "z": 15.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -16.5,
+        "z": 11.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -15.5,
+        "z": 7.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -14.5,
+        "z": 3.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -13.5,
+        "z": -0.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -12.5,
+        "z": -4.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -11.5,
+        "z": -8.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -10.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -9.5,
+        "z": -16.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -8.5,
+        "z": -20.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -7.5,
+        "z": -24.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 15.5,
+        "y": -6.5,
+        "z": -28.5
+      },
+      "r": {
+        "x": 6.720805687097806e-15,
+        "y": 1.200558568669075e-7,
+        "z": 1.2005587629343725e-7
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 18.5,
+        "y": -5.5,
+        "z": -26
+      },
+      "r": {
+        "x": 5.208723860346242e-15,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 14.5,
+        "y": -4.5,
+        "z": -26
+      },
+      "r": {
+        "x": 5.208723860346242e-15,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": -3.5,
+        "z": -26
+      },
+      "r": {
+        "x": 5.208723860346242e-15,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 6.5,
+        "y": -2.5,
+        "z": -26
+      },
+      "r": {
+        "x": 5.208723860346242e-15,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": 7,
+        "z": -15
+      },
+      "r": {
+        "x": -4.4979835616824714e-15,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": 8,
+        "z": -15
+      },
+      "r": {
+        "x": -4.4979835616824714e-15,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 0.9999999999999999,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -0.5,
+        "y": 9,
+        "z": -15
+      },
+      "r": {
+        "x": -4.4979835616824714e-15,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 0.9999999999999999,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -4.5,
+        "y": 10,
+        "z": -15
+      },
+      "r": {
+        "x": -4.4979835616824714e-15,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 0.9999999999999999,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -8.5,
+        "y": 11,
+        "z": -15
+      },
+      "r": {
+        "x": -4.4979835616824714e-15,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 0.9999999999999999,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": 19,
+        "z": -16
+      },
+      "r": {
+        "x": -1.200558456702587e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": 20,
+        "z": -16
+      },
+      "r": {
+        "x": -1.200558456702587e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -0.5,
+        "y": 21,
+        "z": -16
+      },
+      "r": {
+        "x": -1.200558456702587e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -4.5,
+        "y": 22,
+        "z": -16
+      },
+      "r": {
+        "x": -1.200558456702587e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -8.5,
+        "y": 23,
+        "z": -16
+      },
+      "r": {
+        "x": -1.200558456702587e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -12.5,
+        "y": 24,
+        "z": -16
+      },
+      "r": {
+        "x": -1.200558456702587e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -16.5,
+        "y": 25,
+        "z": -16
+      },
+      "r": {
+        "x": -1.200558456702587e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20.5,
+        "y": 26,
+        "z": -16
+      },
+      "r": {
+        "x": -1.200558456702587e-7,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -17.5,
+        "y": 27,
+        "z": -19
+      },
+      "r": {
+        "x": -179.99999987994417,
+        "y": 1.2005585282128316e-7,
+        "z": -179.99999987994414
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -17.5,
+        "y": 28,
+        "z": -15
+      },
+      "r": {
+        "x": -179.99999987994417,
+        "y": 1.2005585282128316e-7,
+        "z": -179.99999987994414
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -17.5,
+        "y": 29,
+        "z": -11
+      },
+      "r": {
+        "x": -179.99999987994417,
+        "y": 1.2005585282128316e-7,
+        "z": -179.99999987994414
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -17.5,
+        "y": 30,
+        "z": -7
+      },
+      "r": {
+        "x": -179.99999987994417,
+        "y": 1.2005585282128316e-7,
+        "z": -179.99999987994414
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/6fad5ab612487c2b147afd25bce4f294c1037f38be4d306b4824e0dbde8f632fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": 0.5,
+        "z": -18.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": 40,
+        "z": 6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": 0.5,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": 0.5,
+        "z": -19
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -18.5,
+        "y": 40,
+        "z": 6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -18.5,
+        "y": 40,
+        "z": -16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": 39,
+        "z": -16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.4,
+        "y": 2.4,
+        "z": 2.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": 0.5,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -27,
+        "y": -29.5,
+        "z": -26.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 4.8,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -27,
+        "y": -29.5,
+        "z": 17.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 4.8,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": -29.5,
+        "z": -26.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 4.8,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": -29.5,
+        "z": 16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 4.8,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": 18,
+        "z": -18.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": 18,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1738d4f5b2f0b918281d361fab4cf7e4c10ff7bbb7504ae73a0e196a4e644a66i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 78,
+        "z": -5.5
+      },
+      "r": {
+        "x": 0,
+        "y": 28,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/7e0ca3ba8cf7826419578fcec749e372c14e1d05f82708cab65a509b57df5684i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.7318221718749895
+    },
+    {
+      "p": {
+        "x": 21.5,
+        "y": -19,
+        "z": 21.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": 11.199999809265137,
+        "z": 8
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -18.5,
+        "y": 51.5,
+        "z": -18.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -14,
+        "y": 61.5,
+        "z": 0.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 21.5,
+        "y": -6.5,
+        "z": -31.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2.9
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 3.5,
+        "y": -2.5,
+        "z": -31.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2.9
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": 6,
+        "z": -21
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2.2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -10.5,
+        "y": 11,
+        "z": -21
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 10.5,
+        "y": 18,
+        "z": -22
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -23.5,
+        "y": 26,
+        "z": -22
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -23.5,
+        "y": 30,
+        "z": -4
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 0.6,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/ea2f06b81b3d309e809852535c273c6abbfa3722da0f207bd0a1bc3498e762efi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 39.5,
+        "y": -25,
+        "z": 45
+      },
+      "r": {
+        "x": 0,
+        "y": -60.00000061157482,
+        "z": 0
+      },
+      "s": {
+        "x": 1.6185197416694244,
+        "y": 1.6185197416694244,
+        "z": 1.6185197416694244
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/08c1f40dfe60f335f28c7c6084d8cd4d0c79b2f93f37247ea6aaa3b6c1c707c9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.3678453958339601
+    },
+    {
+      "p": {
+        "x": -4.400000095367432,
+        "y": 74,
+        "z": -5
+      },
+      "r": {
+        "x": 8.273902001616433e-8,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 0.37974622406396963,
+        "y": 0.37974622406396963,
+        "z": 0.6835432033151454
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/adc4b045f0235f7974be954ecac46734c677d54118e658d513fd2c1acb75c45ai4",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.37974622406396963
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -5,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -5,
+        "z": -19
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -5,
+        "z": -18.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -5,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -18.5,
+        "y": 27.299999237060547,
+        "z": 6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.4,
+        "y": 2.4,
+        "z": 2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": 27.299999237060547,
+        "z": 6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.4,
+        "y": 2.4,
+        "z": 2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": 27.299999237060547,
+        "z": -16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.4,
+        "y": 2.4,
+        "z": 2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -18.5,
+        "y": 27.299999237060547,
+        "z": -16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.4,
+        "y": 2.4,
+        "z": 2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -27,
+        "y": -36.5,
+        "z": -26.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 4.8,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -27,
+        "y": -36.5,
+        "z": 17.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 4.8,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": -36.5,
+        "z": -26.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 4.8,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": -36.5,
+        "z": 16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 4.8,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": 9,
+        "z": -18.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": 9,
+        "z": -19
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": 9,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": 9,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/0b57223c741f59df3f71363ee67212476ff82f2a07326fe83fab14bf9822916di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -22,
+        "y": -5.5,
+        "z": -13.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.1102230246251565e-16,
+        "y": 2.9999999999999996,
+        "z": 1.1102230246251565e-16
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -31,
+        "z": -18.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": -2,
+        "y": 10,
+        "z": -2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -31,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 10,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -31.5,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 10,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -31.5,
+        "z": -19
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 10,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": 10,
+        "z": -16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": -2,
+        "y": 9.6,
+        "z": -2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -18.5,
+        "y": -23,
+        "z": -16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": -2.4,
+        "y": 18,
+        "z": -2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -18.5,
+        "y": -23,
+        "z": 6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": -2.4,
+        "y": 18,
+        "z": -2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": -23.5,
+        "z": -16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": -2.4,
+        "y": 18,
+        "z": -2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 7.5,
+        "y": -22.5,
+        "z": 6
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": -2.4,
+        "y": 18,
+        "z": -2.4
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -27,
+        "y": -78,
+        "z": -26.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 17,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": -78,
+        "z": -26.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 17,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 16,
+        "y": -78,
+        "z": 16
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 17,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -27,
+        "y": -78,
+        "z": 17.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.8,
+        "y": 17,
+        "z": 4.8
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -17,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 10,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -17.5,
+        "z": -18.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": -2,
+        "y": 10,
+        "z": -2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -17,
+        "z": -19
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 10,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -18.5,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 10,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -12,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 10,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -12,
+        "z": -19
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 10,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -13,
+        "z": 9
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 10,
+        "z": 2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 8,
+        "y": -13.5,
+        "z": -18.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": -2,
+        "y": 10,
+        "z": -2
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/28fd562c62024a842d32593ddd59ac32a03b1eac3c1ed2657f513fd79bf647fbi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": -14.5,
+        "y": 23.5,
+        "z": -13.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 36.79999649577048,
+        "y": 36.79999649577048,
+        "z": 100.79999040145827
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/bd81e7ad7699852a59b20054bb0ddf56d97fa0174595cc2c4c68b0400acff188i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 7.9999992382109735
+    },
+    {
+      "p": {
+        "x": 2.5,
+        "y": 23.5,
+        "z": -12.5
+      },
+      "r": {
+        "x": -0.0000011446379964669572,
+        "y": -90,
+        "z": 0
+      },
+      "s": {
+        "x": 36.79999649577048,
+        "y": 36.79999649577048,
+        "z": 100.79999040145827
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/bd81e7ad7699852a59b20054bb0ddf56d97fa0174595cc2c4c68b0400acff188i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 7.9999992382109735
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 88.30000305175781,
+        "z": -5
+      },
+      "r": {
+        "x": 90.00000329853134,
+        "y": 0.0000032985307322770064,
+        "z": -90.00000084954947
+      },
+      "s": {
+        "x": 16.13322672517065,
+        "y": 16.13322672517065,
+        "z": 16.13322672517065
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/79fa4995caf5eab00dab5360abe4d51a3fcfb7ef4ee4b6af01c95c446d934494i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 1.5816888946245737
+    },
+    {
+      "p": {
+        "x": -26429.5,
+        "y": 32.5,
+        "z": -10001
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1000,
+        "y": 1000,
+        "z": 1000
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/462ed2a4fe33ec51c563813ab68dc164852322ae33fc8042fc9aebb9508394ddi0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.9999999289937357
+    },
+    {
+      "p": {
+        "x": -85.5,
+        "y": 319.5,
+        "z": 154
+      },
+      "r": {
+        "x": -48.44169826006305,
+        "y": -8.935940752299413,
+        "z": -14.659354508864444
+      },
+      "s": {
+        "x": 19.54872166253744,
+        "y": 19.54872166253744,
+        "z": 19.54872166253744
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/37b64538bf925f3780fc22cdab1d0a8bd7a70df3ba74989fd9c891d70b2dcd34i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.3393875288634963
+    },
+    {
+      "p": {
+        "x": -78.5,
+        "y": 77.5,
+        "z": -11.5
+      },
+      "r": {
+        "x": -0.0000028726273527007884,
+        "y": 44.999998491924984,
+        "z": -30.000005371271083
+      },
+      "s": {
+        "x": 3.4301920301962543,
+        "y": 3.4301920301962543,
+        "z": 3.4301920301962543
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/af6043cd2d4a2de8b59f2a45506be8d2a39d00c774fef4e6810e786c352d5818i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.19942976919745653
+    },
+    {
+      "p": {
+        "x": -155.5,
+        "y": -60.5,
+        "z": -188.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.9541590199059113,
+        "y": 2.9541590199059113,
+        "z": 2.9541590199059113
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": 32,
+        "y": -58.5,
+        "z": -540.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.7373400092706133,
+        "y": 2.7373400092706133,
+        "z": 2.7373400092706133
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": 510.5,
+        "y": -55.5,
+        "z": -66
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.39856030515296,
+        "y": 2.39856030515296,
+        "z": 2.39856030515296
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": 67,
+        "y": -63,
+        "z": 519.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.1845292187059155,
+        "y": 3.1845292187059155,
+        "z": 3.1845292187059155
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": -457.5,
+        "y": -55.5,
+        "z": 27.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.39856030515296,
+        "y": 2.39856030515296,
+        "z": 2.39856030515296
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": -463.5,
+        "y": -55.5,
+        "z": 497.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.39856030515296,
+        "y": 2.39856030515296,
+        "z": 2.39856030515296
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": -545.5,
+        "y": -60,
+        "z": -572.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.9812613962353236,
+        "y": 2.9812613962353236,
+        "z": 2.9812613962353236
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": 663,
+        "y": -67,
+        "z": -593
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.4826553583294504,
+        "y": 3.4826553583294504,
+        "z": 3.4826553583294504
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": 488,
+        "y": -58,
+        "z": 480.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2.710237632941201,
+        "y": 2.710237632941201,
+        "z": 2.710237632941201
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/707e8ab40e98b87fd571babe7277a8425ce7390086695dd31e95b33bff5291e9i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.06775594082353008
+    },
+    {
+      "p": {
+        "x": -26.5,
+        "y": -32.599998474121094,
+        "z": 21.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.5999998569488656,
+        "y": 1.5999998569488656,
+        "z": 1.999999821186082
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/a10aa0f13cfaae24fd709e0d35a5726d4e2a257465f6113b232eba6847a19bb5i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.9999999105930408
+    },
+    {
+      "p": {
+        "x": -7.5,
+        "y": -1.4000000953674316,
+        "z": -3.5
+      },
+      "r": {
+        "x": 0,
+        "y": -45.000001211059924,
+        "z": 0
+      },
+      "s": {
+        "x": 0.09153385835129833,
+        "y": 0.09153385835129833,
+        "z": 0.09153385835129833
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/dedd31cbd3c6e8f4dfed75a4f26eebbeb062906b8284af6ff47815f2ecf79978i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.09153385835129833
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 35.5,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": -45.000002091102296,
+        "z": 0
+      },
+      "s": {
+        "x": 66.06373681893966,
+        "y": 66.06373681893966,
+        "z": 66.06373681893966
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/3333c4664c19921f62b9029417f02cbd9f6af5b8916cf72f8a80cdc4ae3fcaf7i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 7.072145306406486
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": -34.5,
+        "z": 9.5
+      },
+      "r": {
+        "x": -180,
+        "y": 45.99099999999999,
+        "z": -180
+      },
+      "s": {
+        "x": 62.234879122562596,
+        "y": 157.82885812256262,
+        "z": 62.234879122562596
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/222288a8693df94c22da6f14243532cb7d7183fb18e197cf211c01680758dbdci0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 7.072145306406486
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": -34.5,
+        "z": -19.5
+      },
+      "r": {
+        "x": -7.016709432363051e-15,
+        "y": -45.99100007923299,
+        "z": 7.016709484762309e-15
+      },
+      "s": {
+        "x": 62.234879122562596,
+        "y": 157.82885812256262,
+        "z": 62.234879122562596
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/222288a8693df94c22da6f14243532cb7d7183fb18e197cf211c01680758dbdci0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 7.072145306406486
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -34.5,
+        "z": -5
+      },
+      "r": {
+        "x": -6.778088025355928e-15,
+        "y": 44.0090004507811,
+        "z": -2.73914458080541e-15
+      },
+      "s": {
+        "x": 62.234879122562596,
+        "y": 157.82885812256262,
+        "z": 62.234879122562596
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/222288a8693df94c22da6f14243532cb7d7183fb18e197cf211c01680758dbdci0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 7.072145306406486
+    },
+    {
+      "p": {
+        "x": 8.5,
+        "y": -34.5,
+        "z": -5
+      },
+      "r": {
+        "x": -180,
+        "y": -44.00899361061998,
+        "z": 180
+      },
+      "s": {
+        "x": 62.234879122562596,
+        "y": 157.82885812256262,
+        "z": 62.234879122562596
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/222288a8693df94c22da6f14243532cb7d7183fb18e197cf211c01680758dbdci0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 7.072145306406486
+    },
+    {
+      "p": {
+        "x": -6.5,
+        "y": -32.5,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.1117597983088001,
+        "y": 1.1117597983088001,
+        "z": 1.1117597983088001
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/c9e52ac776675dc8e4a7992356f08d9ab2893c401965077fcd264a7101612a40i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.292568367976
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": -1.7000000476837158,
+        "z": -4
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 7.086892511155844,
+        "y": 7.086892511155844,
+        "z": 7.086892511155844
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/b0efcc51f74ee5114bce6d62439acf3e4d8bda00550b7cdec308406f9d6e1d74i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 7.086892511155844
+    },
+    {
+      "p": {
+        "x": -2,
+        "y": -1.5,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.3110598994609205,
+        "y": 0.3110598994609205,
+        "z": 0.3110598994609205
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/d0a96bd927a6e6c5734d7e071e40ac79543f45ec02ecddd5464b342d3777b8f2i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.3110598994609205
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 66,
+        "z": -1.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.2244598933676675,
+        "y": 0.2244598933676675,
+        "z": 0.2244598933676675
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/1c50c66206f0a63e84c8fcea98eaa6de8545cf52c12a453a263da8dc79a3f233i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.2244598933676675
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 16,
+        "z": 1
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 4.5797407705995825,
+        "y": 4.5797407705995825,
+        "z": 4.5797407705995825
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/eefa9c339434fa54557b6a63abcfaabb2885884d335a45ef2c7bf46f08a4d4f3i0",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.880719378961458
+    },
+    {
+      "p": {
+        "x": 488,
+        "y": -36,
+        "z": -425
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3.057437980948589,
+        "y": 3.057437980948589,
+        "z": 3.057437980948589
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/02727444ff733f85e27c610b0f804198c3e1251db9d90865f2288f5ac0564e9fi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.04732876131499373
+    },
+    {
+      "p": {
+        "x": -49,
+        "y": -32.5,
+        "z": -110.5
+      },
+      "r": {
+        "x": -14.99999584775566,
+        "y": 59.99999872794116,
+        "z": 0.000002538710583233106
+      },
+      "s": {
+        "x": 1.4404461831286224,
+        "y": 1.4404461831286224,
+        "z": 1.4404461831286224
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/09434427a0f5bddda76416dc60331212cd16312a538ef1b5c475e903ba318ecdi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.10003098493948778
+    },
+    {
+      "p": {
+        "x": 153,
+        "y": -32.5,
+        "z": -379
+      },
+      "r": {
+        "x": -7.436283154411781,
+        "y": 0.8454061476732424,
+        "z": 12.953972883837034
+      },
+      "s": {
+        "x": 3.241003912039399,
+        "y": 3.241003912039399,
+        "z": 3.241003912039399
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/09434427a0f5bddda76416dc60331212cd16312a538ef1b5c475e903ba318ecdi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.10003098493948778
+    },
+    {
+      "p": {
+        "x": -155.5,
+        "y": -42,
+        "z": -522
+      },
+      "r": {
+        "x": -7.436283154411781,
+        "y": 0.8454061476732424,
+        "z": 12.953972883837034
+      },
+      "s": {
+        "x": 4.101270382518993,
+        "y": 4.101270382518993,
+        "z": 4.101270382518993
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/09434427a0f5bddda76416dc60331212cd16312a538ef1b5c475e903ba318ecdi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.10003098493948778
+    },
+    {
+      "p": {
+        "x": -341.5,
+        "y": -36.5,
+        "z": -129.5
+      },
+      "r": {
+        "x": -8.64387676017587,
+        "y": 30.565199093264646,
+        "z": 8.643878194032371
+      },
+      "s": {
+        "x": 1.4404461831286224,
+        "y": 1.4404461831286224,
+        "z": 1.4404461831286224
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/09434427a0f5bddda76416dc60331212cd16312a538ef1b5c475e903ba318ecdi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.10003098493948778
+    },
+    {
+      "p": {
+        "x": -248.5,
+        "y": -32.5,
+        "z": 152
+      },
+      "r": {
+        "x": 33.60501526391281,
+        "y": 54.55817625631049,
+        "z": 56.394979548495726
+      },
+      "s": {
+        "x": 4.061257988543198,
+        "y": 4.061257988543198,
+        "z": 4.061257988543198
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/09434427a0f5bddda76416dc60331212cd16312a538ef1b5c475e903ba318ecdi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.10003098493948778
+    },
+    {
+      "p": {
+        "x": -284,
+        "y": -36.5,
+        "z": -284.5
+      },
+      "r": {
+        "x": -8.64387676017587,
+        "y": 30.565199093264646,
+        "z": 8.643878194032371
+      },
+      "s": {
+        "x": 1.4404461831286224,
+        "y": 1.4404461831286224,
+        "z": 1.4404461831286224
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/09434427a0f5bddda76416dc60331212cd16312a538ef1b5c475e903ba318ecdi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.10003098493948778
+    },
+    {
+      "p": {
+        "x": -154.5,
+        "y": -36.5,
+        "z": -273.5
+      },
+      "r": {
+        "x": -8.498779114558081,
+        "y": -28.879095542879675,
+        "z": 17.19212170076532
+      },
+      "s": {
+        "x": 1.7205329409591876,
+        "y": 1.7205329409591876,
+        "z": 1.7205329409591876
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/09434427a0f5bddda76416dc60331212cd16312a538ef1b5c475e903ba318ecdi0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.10003098493948778
+    },
+    {
+      "p": {
+        "x": 464,
+        "y": -19.5,
+        "z": -422
+      },
+      "r": {
+        "x": 69.24642931345335,
+        "y": -43.07951709603672,
+        "z": 14.51081842248831
+      },
+      "s": {
+        "x": 19.199999999999996,
+        "y": 19.199999999999996,
+        "z": 31.59999999999995
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/c0e713327212db9f5a6b82ed65682c33b39debb35c8d50370d06718a9a2ba280i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 2
+    },
+    {
+      "p": {
+        "x": 45,
+        "y": -35.5,
+        "z": 45.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.3159470983089498,
+        "y": 1.3159470983089498,
+        "z": 1.3159470983089498
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/354c773f197afdb7c78dbef6a77fe6321c73a0ab4ff0e90cb2cdd28f79668c13i0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.023312779266401597
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -35.5,
+        "z": -48.5
+      },
+      "r": {
+        "x": 180,
+        "y": -0.0000013988324200953741,
+        "z": 180
+      },
+      "s": {
+        "x": 1.9057031421426094,
+        "y": 1.9057031421426094,
+        "z": 1.9057031421426094
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/dc1cad06fc901af9c66c9ff1132655240030d7c86d3a59fe425ad31b1599aecei0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.07513025957786551
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 53,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.1980913654189677,
+        "y": 0.1980913654189677,
+        "z": 0.1980913654189677
+      },
+      "body": "Static",
+      "asset": "https://ordinals.com/content/69ad193f57b8994607b0008a49eaa1b395198e72a3ce0d4c67c31018e54c704di0",
+      "met": 0,
+      "ref": 0,
+      "glo": 0,
+      "sf": 0.04306334030847125
+    }
+  ],
+  "solidground": [],
+  "solidbox": [
+    {
+      "p": {
+        "x": 5.5,
+        "y": -38.5,
+        "z": 7
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 6.5,
+        "y": 6.5,
+        "z": 6.5
+      },
+      "col": "#FFFFFF",
+      "met": 1,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 70,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": -5.097874879121679e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 4.899999999999999,
+        "y": 4.899999999999999,
+        "z": 4.899999999999999
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 5,
+        "y": -38.5,
+        "z": -15.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 6.5,
+        "y": 6.5,
+        "z": 6.5
+      },
+      "col": "#FFFFFF",
+      "met": 1,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -17,
+        "y": -38.5,
+        "z": -15.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 6.5,
+        "y": 6.5,
+        "z": 6.5
+      },
+      "col": "#FFFFFF",
+      "met": 1,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -5.946496963500977,
+        "y": 64.5,
+        "z": -4.967935562133789
+      },
+      "r": {
+        "x": 0,
+        "y": -5.010770157157349e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 6.5,
+        "y": 6.5,
+        "z": 6.5
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -17.5,
+        "y": -38.5,
+        "z": 7
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 6.5,
+        "y": 6.5,
+        "z": 6.5
+      },
+      "col": "#FFFFFF",
+      "met": 1,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": -34.75,
+        "z": -3
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 59,
+        "y": 7,
+        "z": 59
+      },
+      "col": "#a1a1a1",
+      "met": 0,
+      "ref": 0,
+      "glo": 0
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 61.14999771118164,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": -2.8128673726191847e-8,
+        "z": 0
+      },
+      "s": {
+        "x": 13.800000000000002,
+        "y": 1.2999999999999998,
+        "z": 13.800000000000002
+      },
+      "col": "#a1a1a1",
+      "met": 0,
+      "ref": 0,
+      "glo": 0
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 74,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3.2,
+        "y": 3.2,
+        "z": 3.2
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 76.65016174316406,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 2.6999999999999993,
+        "y": 2.6999999999999993,
+        "z": 2.6999999999999993
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -5.946000099182129,
+        "y": 37.70018768310547,
+        "z": -4.9679999351501465
+      },
+      "r": {
+        "x": 0,
+        "y": -5.010770157157349e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 15.699999999999967,
+        "y": 15.699999999999967,
+        "z": 15.699999999999967
+      },
+      "col": "#FFFFFF",
+      "met": 0.1,
+      "ref": 0.1,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -5.946000099182129,
+        "y": 28.90001678466797,
+        "z": -4.9679999351501465
+      },
+      "r": {
+        "x": 0,
+        "y": -5.010770157157349e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 33,
+        "y": 2,
+        "z": 33
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0
+    },
+    {
+      "p": {
+        "x": -5.6958112716674805,
+        "y": 50.04999923706055,
+        "z": 3.064990758895874
+      },
+      "r": {
+        "x": 0,
+        "y": -5.010770157157349e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 19.1,
+        "y": 2,
+        "z": 9
+      },
+      "col": "#FFFFFF",
+      "met": 0.1,
+      "ref": 0.1,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -5.946000099182129,
+        "y": 47.050045013427734,
+        "z": -4.9679999351501465
+      },
+      "r": {
+        "x": 0,
+        "y": -5.010770157157349e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 9.9,
+        "y": 4,
+        "z": 9.9
+      },
+      "col": "#878282",
+      "met": 0.1,
+      "ref": 0.1,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -5.75,
+        "y": 50.04999923706055,
+        "z": -12.911999702453613
+      },
+      "r": {
+        "x": 0,
+        "y": -5.010770157157349e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 19,
+        "y": 2,
+        "z": 9.2
+      },
+      "col": "#FFFFFF",
+      "met": 0.1,
+      "ref": 0.1,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -17.541526794433594,
+        "y": 50.04999923706055,
+        "z": -4.913539409637451
+      },
+      "r": {
+        "x": 180,
+        "y": 89.00000009326334,
+        "z": 180
+      },
+      "s": {
+        "x": 25,
+        "y": 2,
+        "z": 5
+      },
+      "col": "#FFFFFF",
+      "met": 0.1,
+      "ref": 0.1,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": 6.108458518981934,
+        "y": 50.04999923706055,
+        "z": -5.042192459106445
+      },
+      "r": {
+        "x": 180,
+        "y": 89.00000009326334,
+        "z": 180
+      },
+      "s": {
+        "x": 25,
+        "y": 2,
+        "z": 5
+      },
+      "col": "#FFFFFF",
+      "met": 0.1,
+      "ref": 0.1,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": -4.449999809265137,
+        "z": -5
+      },
+      "r": {
+        "x": 1.2247709527431691e-16,
+        "y": 0.9999965658640637,
+        "z": 1.0688430283528275e-18
+      },
+      "s": {
+        "x": 51,
+        "y": 3,
+        "z": 51
+      },
+      "col": "#FFFFFF",
+      "met": 0.1,
+      "ref": 0.1,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 10,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": -5.010770157157349e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 30.5,
+        "y": 2,
+        "z": 30.1
+      },
+      "col": "#FFFFFF",
+      "met": 0.1,
+      "ref": 0.1,
+      "glo": 0.5
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": -43.75,
+        "z": -4
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 73,
+        "y": 21,
+        "z": 73
+      },
+      "col": "#a1a1a1",
+      "met": 0,
+      "ref": 0,
+      "glo": 0
+    },
+    {
+      "p": {
+        "x": -5.946000099182129,
+        "y": 48.599998474121094,
+        "z": -4.9679999351501465
+      },
+      "r": {
+        "x": 0,
+        "y": -5.010770157157349e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 24.7,
+        "y": 1,
+        "z": 24.7
+      },
+      "col": "#FFFFFF",
+      "met": 0.1,
+      "ref": 0.1,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -5.946496963500977,
+        "y": 63,
+        "z": -4.967935562133789
+      },
+      "r": {
+        "x": 0,
+        "y": -5.010770157157349e-7,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 3,
+        "z": 10
+      },
+      "col": "#FFFFFF",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    },
+    {
+      "p": {
+        "x": -5,
+        "y": 78,
+        "z": -5.300000190734863
+      },
+      "r": {
+        "x": -89.99999899479505,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 1,
+        "z": 0.3
+      },
+      "col": "#a1a1a1",
+      "met": 0,
+      "ref": 0,
+      "glo": 0
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 78,
+        "z": -6.5
+      },
+      "r": {
+        "x": -90.00000191146307,
+        "y": 0.0000038976765827463495,
+        "z": 0.000003032106296768125
+      },
+      "s": {
+        "x": 3,
+        "y": 1,
+        "z": 0.3
+      },
+      "col": "#a1a1a1",
+      "met": 0,
+      "ref": 0,
+      "glo": 0
+    },
+    {
+      "p": {
+        "x": -7,
+        "y": 78,
+        "z": -5.5
+      },
+      "r": {
+        "x": -90.0000056275963,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 1,
+        "z": 0.3
+      },
+      "col": "#a1a1a1",
+      "met": 0,
+      "ref": 0,
+      "glo": 0
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 78,
+        "z": -4.300000190734863
+      },
+      "r": {
+        "x": 90.00000127920889,
+        "y": -0.000003915248452267801,
+        "z": -179.999998336802
+      },
+      "s": {
+        "x": 3,
+        "y": 1,
+        "z": 0.3
+      },
+      "col": "#a1a1a1",
+      "met": 0,
+      "ref": 0,
+      "glo": 0
+    }
+  ],
+  "ground": [],
+  "box": [
+    {
+      "p": {
+        "x": 660,
+        "y": 7,
+        "z": -587
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1.5,
+        "y": 4,
+        "z": 2.5
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmYU7DBvKwFezaV69kLfThRmYkQoU3dtny6fWECQ42tQ8U",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": 78.80000305175781,
+        "z": -5.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": -1.200558568669075e-7
+      },
+      "s": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmVGPAuiHkA2y97LCYS5jL481BqvTGYHhL7C5TvMz7yVps",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 464,
+        "y": -24,
+        "z": -420
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 0.5,
+        "z": 1
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmYAXGddW6CdSp95YZV7tYo4sjjsDhqSGZw61kk5KFPKWw",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 491,
+        "y": -2.5,
+        "z": 492.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmUtvVm9xD6tjMajLsWrtrWhhnPhavwa5iHPKWHZugDWKk",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": -25.5,
+        "z": -5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/QmXTBWo8ckD5UJmVRry5rCupR1n2B3fqbRfuEdEQhrM5Ng",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "p": {
+        "x": 226.5,
+        "y": -13,
+        "z": 546.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      },
+      "asset": "https://crimson-secondary-goose-876.mypinata.cloud/ipfs/Qmb32cgcJsJhgBncbhfR3KSTQFiEntXxzhanA3hCczfuUZ",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3,
+      "tile": {
+        "x": 1,
+        "y": 1
+      }
+    }
+  ],
+  "image": [
+    {
+      "p": {
+        "x": 2.5,
+        "y": 38,
+        "z": -4.5
+      },
+      "r": {
+        "x": -270.00000752185343,
+        "y": 90,
+        "z": 0
+      },
+      "s": {
+        "x": 5,
+        "y": 1,
+        "z": 7
+      },
+      "asset": "https://img-cdn.magiceden.dev/rs:fit:800:0:0/plain/https://bitmap-img.magiceden.dev/v1/6b4769a4e8b67b38b596a8212374d4bf6c4c43deecc58bbed2591b72f335bb57i0"
+    }
+  ],
+  "html": [],
+  "video": [],
+  "youtube": [
+    {
+      "p": {
+        "x": -6,
+        "y": -25,
+        "z": -26
+      },
+      "r": {
+        "x": -90.00000000000006,
+        "y": 7.016709298534876e-15,
+        "z": 180
+      },
+      "s": {
+        "x": 11,
+        "y": 1,
+        "z": 11
+      },
+      "asset": "https://www.youtube.com/watch?v=IdBh-DZoyRA&list=RDIdBh-DZoyRA&start_radio=1"
+    },
+    {
+      "p": {
+        "x": -20,
+        "y": -25,
+        "z": 1.5
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 11.5,
+        "y": 1,
+        "z": 11.5
+      },
+      "asset": "https://www.youtube.com/watch?v=9K5UGmodCro&list=RD9K5UGmodCro&start_radio=1"
+    },
+    {
+      "p": {
+        "x": -6.5,
+        "y": -25.5,
+        "z": 16
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 9,
+        "y": 1,
+        "z": 9
+      },
+      "asset": "https://www.youtube.com/watch?v=-gTS9J87W9k&list=RD-gTS9J87W9k&start_radio=1"
+    }
+  ],
+  "audio": [],
+  "water": [
+    {
+      "p": {
+        "x": -2.5,
+        "y": -34.95000076293945,
+        "z": -4.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 10000,
+        "y": 1,
+        "z": 1000
+      },
+      "bum": 0.02,
+      "tile": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    {
+      "p": {
+        "x": -5.683182716369629,
+        "y": 49.19984436035156,
+        "z": -4.4455246925354
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 23.300000000000082,
+        "y": 1,
+        "z": 23.300000000000082
+      },
+      "bum": 0.18,
+      "tile": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    {
+      "p": {
+        "x": 2,
+        "y": -20,
+        "z": -4.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 90.00000003303866
+      },
+      "s": {
+        "x": 29,
+        "y": 1,
+        "z": 10
+      },
+      "bum": 0.18,
+      "tile": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    {
+      "p": {
+        "x": -5.5,
+        "y": -20,
+        "z": -12.5
+      },
+      "r": {
+        "x": 90.00000080112349,
+        "y": -0.0000015582072321981646,
+        "z": 90.00000136518105
+      },
+      "s": {
+        "x": 29,
+        "y": 1,
+        "z": 10
+      },
+      "bum": 0.18,
+      "tile": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    {
+      "p": {
+        "x": -13.5,
+        "y": -20,
+        "z": -5.5
+      },
+      "r": {
+        "x": -179.99999996696147,
+        "y": -0.0000022168273004532245,
+        "z": 90.00000352330868
+      },
+      "s": {
+        "x": 29,
+        "y": 1,
+        "z": 10
+      },
+      "bum": 0.18,
+      "tile": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    {
+      "p": {
+        "x": -6,
+        "y": -20.5,
+        "z": 3
+      },
+      "r": {
+        "x": -90.00000038300786,
+        "y": 0.0000017099826495838941,
+        "z": 90.0000077655869
+      },
+      "s": {
+        "x": 29,
+        "y": 1,
+        "z": 10
+      },
+      "bum": 0.18,
+      "tile": {
+        "x": 3,
+        "y": 3
+      }
+    }
+  ],
+  "text": [],
+  "collider": []
+}

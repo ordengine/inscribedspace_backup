@@ -1,0 +1,70 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": -4.5,
+        "y": 1.100000023841858,
+        "z": -4.5
+      }
+    }
+  ],
+  "model": [
+    {
+      "p": {
+        "x": -0.5,
+        "y": -2,
+        "z": -0.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 0.04799998168946012,
+        "y": 0.04799998168946012,
+        "z": 0.04799998168946012
+      },
+      "body": "Static",
+      "asset": "https://yellow-near-ptarmigan-651.mypinata.cloud/ipfs/QmYFje7E9MT7vzD7xFrWe2gY7K2i8UXAaAnUdWumUuxeXg",
+      "met": 0.5,
+      "ref": 0.5,
+      "glo": 0.3,
+      "sf": 0.01999999237060838
+    }
+  ],
+  "solidground": [
+    {
+      "p": {
+        "x": -0.5,
+        "y": -2.4700000286102295,
+        "z": -0.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 90,
+        "y": 1,
+        "z": 90
+      },
+      "col": "#573d7d",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    }
+  ],
+  "solidbox": [],
+  "ground": [],
+  "box": [],
+  "image": [],
+  "html": [],
+  "video": [],
+  "youtube": [],
+  "audio": [],
+  "water": [],
+  "text": [],
+  "collider": []
+}

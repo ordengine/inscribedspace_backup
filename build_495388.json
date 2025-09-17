@@ -1,0 +1,44 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": -4.5,
+        "y": 1.100000023841858,
+        "z": -4.5
+      }
+    }
+  ],
+  "model": [],
+  "solidground": [],
+  "solidbox": [],
+  "ground": [],
+  "box": [],
+  "image": [],
+  "html": [
+    {
+      "p": {
+        "x": 0.5,
+        "y": 3,
+        "z": 4
+      },
+      "r": {
+        "x": -90.00000000000003,
+        "y": -27.000000000000036,
+        "z": 180
+      },
+      "s": {
+        "x": 4,
+        "y": 50,
+        "z": 5
+      },
+      "market": "ow",
+      "asset": "https://ordinals.com/content/31b624038caafcdd3636fe284b135fbcbc6f78b540ebd18a1240134d4f72bca1i0"
+    }
+  ],
+  "video": [],
+  "youtube": [],
+  "audio": [],
+  "water": [],
+  "text": [],
+  "collider": []
+}

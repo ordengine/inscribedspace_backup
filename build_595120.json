@@ -1,0 +1,181 @@
+{
+  "app": [
+    {
+      "player": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ],
+  "model": [],
+  "solidground": [
+    {
+      "p": {
+        "x": 2.5,
+        "y": -1,
+        "z": -3
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 500,
+        "y": 500,
+        "z": 500
+      },
+      "col": "#f7931a",
+      "met": 0,
+      "ref": 0,
+      "glo": 0.3
+    }
+  ],
+  "solidbox": [],
+  "ground": [],
+  "box": [],
+  "image": [],
+  "html": [
+    {
+      "p": {
+        "x": -0.5,
+        "y": 1,
+        "z": -2
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 2
+      },
+      "market": "me",
+      "asset": "https://ordinals.com/content/b1e70d12af596e2de19b30774fbc15813d1209861f90daf9ebf870d9bfb35ae9i0"
+    },
+    {
+      "p": {
+        "x": 2,
+        "y": 1,
+        "z": -2
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 2
+      },
+      "market": "ow",
+      "asset": "https://ordinals.com/content/b1e70d12af596e2de19b30774fbc15813d1209861f90daf9ebf870d9bfb35ae9i0"
+    },
+    {
+      "p": {
+        "x": 4.5,
+        "y": 1,
+        "z": -2
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 2
+      },
+      "market": "me",
+      "asset": "https://ordinals.com/content/133f564dbbfcfb06064bf4bcb58d9e12f9c57133bfefcf3d521086d8c4cad0ffi0"
+    },
+    {
+      "p": {
+        "x": 7,
+        "y": 1,
+        "z": -2
+      },
+      "r": {
+        "x": 89.99999999999999,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 2,
+        "y": 1,
+        "z": 2
+      },
+      "market": "ow",
+      "asset": "https://ordinals.com/content/133f564dbbfcfb06064bf4bcb58d9e12f9c57133bfefcf3d521086d8c4cad0ffi0"
+    }
+  ],
+  "video": [],
+  "youtube": [],
+  "audio": [],
+  "water": [
+    {
+      "p": {
+        "x": -8,
+        "y": 0,
+        "z": 1
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 10,
+        "y": 1,
+        "z": 10
+      },
+      "bum": 0.18,
+      "tile": {
+        "x": 3,
+        "y": 3
+      }
+    }
+  ],
+  "text": [
+    {
+      "p": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 6.5
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "txt": "ZabutoN World",
+      "font": "Pixel",
+      "size": 0.5,
+      "col": "#ffffff"
+    }
+  ],
+  "collider": [
+    {
+      "p": {
+        "x": 2,
+        "y": -0.5,
+        "z": 0
+      },
+      "r": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "s": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ]
+}
